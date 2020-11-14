@@ -1,0 +1,26 @@
+---
+layout: photopage
+title: "2001: Ridder & Jonkvrouw"
+external-url:
+categories: Weekenden
+visible: 1
+images:
+  - image_path: /assets/w2001/groep.jpg
+    title: Groepsfoto
+    description: "Groepsfoto voor het kasteel."
+  - image_path: /assets/w2001/jonkvrouwen.jpg
+    title: De jonkvrouwen
+    description: "Mag ik een dans van U?"
+  - image_path: /assets/w2001/spellen.jpg
+    title: Spellen
+    description: "Er waren ook Snepper-spelen georganiseerd" 
+  - image_path: /assets/w2001/beste-ridder.jpg
+    title: Mathijs als ridder
+    description: "Mathijs verkleed als ridder"
+  - image_path: /assets/w2001/winnaars.jpg
+    title: Foto winnaars
+    description: "En van die spelen waren deze mensen de duidelijke winnaars"
+---
+
+Ook in 2001 gingen we weer tijdens het lange Hemelvaart weekend naar de Ulepas. Alweer boffen dus dat dit mogelijk was. 
+Thema was: *Ridder & Jonkvrouwe*. 

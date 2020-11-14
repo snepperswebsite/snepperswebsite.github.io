@@ -1,0 +1,38 @@
+<footer>
+  <div class="container">
+    <div class="row biography">
+      <div class="col-sm-4">
+        <h2>Over</h2>
+        <p>{{ site.description }}</p>
+      </div>
+      
+      <div class="col-sm-4">
+        <h2>Contact</h2>
+          {% if site.email %}
+          <div>
+            <a href="mailto:{{ site.email }}">
+              <span class="username">{{ site.email }}</span>
+            </a>
+          </div>
+          {% endif %}
+      </div>
+      
+      <div class="col-sm-4">
+        <h2>Terug</h2>
+          <div>
+            <a href="/index.html">
+              <span class="username">Hoofdpagina</span>
+            </a>
+          </div>
+      </div>
+      
+    </div>
+    
+    {% if site.colophon %}
+    <div class="row copyright">
+      <center>{{ site.colophon }}</center>
+    </div>
+    {% endif %}
+
+  </div>
+</footer>

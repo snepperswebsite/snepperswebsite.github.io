@@ -1,0 +1,26 @@
+---
+layout: photopage
+title: "2002: Zigeuners"
+external-url:
+categories: Weekenden
+visible: 1
+images:
+  - image_path: /assets/w2002/aan-het-water.jpg
+    title: Kinderen bij het water
+    description: "De kleinsten amuseren zich het beste aan het water (zon, zand en water)"
+  - image_path: /assets/w2002/kinderen-op-veluwe.jpg
+    title: Bij de Posbank
+    description: "Op de top van een heuvel van de Posbank."
+  - image_path: /assets/w2002/samen-eten.jpg
+    title: Samen eten
+    description: "Samen eten" 
+  - image_path: /assets/w2002/samen-eten2.jpg
+    title: Samen eten
+    description: "En nog een keer eten"
+  - image_path: /assets/w2002/spellen.jpg
+    title: Spellenmiddag
+    description: "Spellenmiddag"
+---
+
+Daar gingen we in de Lente van 2002 weer op stap: bepakt en gezakt (steeds meerrrr) togen we weer naar Hoog-Keppel op de grens van De Veluwe en De Achterhoek.  
+Thema was: *Zigeuners*.

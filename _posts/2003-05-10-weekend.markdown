@@ -1,0 +1,31 @@
+---
+layout: photopage
+title: "2003: Piraten"
+external-url:
+categories: Weekenden
+visible: 1
+images:
+  - image_path: /assets/w2003/piraten-groepsfoto-1.jpg
+    title: Groepsfoto piraten 1
+    description: "Groepsfoto 1 van de piraten"
+  - image_path: /assets/w2003/piraten-groepsfoto-2.jpg
+    title: Groepsfoto piraten 2
+    description: "Groepsfoto 1 van de piraten"
+  - image_path: /assets/w2003/bij-het-water.jpg
+    title: Kinderen bij het water
+    description: "Lekker modder maken met z'n allen"
+  - image_path: /assets/w2003/slapen.jpg
+    title: De slaapzaal
+    description: "Slapen in de kinderslaapzaal"
+  - image_path: /assets/w2003/samen-eten.jpg
+    title: Samen eten
+    description: "He, niet te veel eten en drinken, en dan UITBUIKEN. "
+  - image_path: /assets/w2003/op-de-bank.jpg
+    title: Sneppers op een bankje
+    description: "De snepperdames op een bankje"
+  - image_path: /assets/w2003/wandelen.jpg
+    title: Samen wandelen
+    description: "We hebben heerlijk gewandeld in 'De Posbank' op de Veluwe." 
+---
+
+Ook dit jaar gingen we weer tijdens het lange Hemelvaart weekend op vakantie. Voor de variatie namen we dit keer een "plezant optrekje": Ulepas. Thema was: Piraten.
