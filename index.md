@@ -7,7 +7,7 @@ layout: default
       <div><center><h1>{{ site.title }}</h1></center></div>
       <center>
         <span class="big-ornament">
-        <img src="/assets/sneppers-logo.png" alt="Logo van De Sneppers"  height="350">
+        <img src="/assets/sneppers-logo.png" alt="Logo van De Sneppers"  width="60%">
         </span>
       </center>
     </header>
