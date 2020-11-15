@@ -1,6 +1,5 @@
 ---
 layout: default
-tablewidth: 3
 ---
 <div class="post">
   <div class="container main">
@@ -29,20 +28,26 @@ tablewidth: 3
 	     </div>
      </div>
 
-<table>
-    {% assign ii = 0 %}
-    <tr>
-    {% for image in page.images %}
-        <th><a href="{{image.image_path}}"><img src="{{ image.image_path }}" alt="{{ image.title}}" width="100%"/></a><BR>{{ image.description}}{% assign ii = ii | plus: 1 %}</th>
-        {% if ii == layout.tablewidth %}
-            </tr><tr>
-            {% assign ii = 0 %}
-        {% endif %}
-    {% endfor %}
-    {% if ii != layout.tablewidth %}
-        </tr>
-    {% endif %}
-</table>
+     
+
+
+    <div class="row">
+    <div class="col-md-1"></div>
+    <div class="col-md-8 offset-md-1">
+        <div class="imgrow">
+        {% for image in page.images %}
+        <div class="imgcolumn">
+            <div class="imgelement"><a href="{{image.image_path}}"><img src="{{ image.image_path }}" alt="{{ image.title}}" width="100%"/></a><BR>{{ image.description}}</div>
+        </div>
+        {% endfor %}
+        </div>
+    </div>
+    </div>
+
+
+
+
+
      
   </div>
 </div>
