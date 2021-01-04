@@ -1,0 +1,29 @@
+---
+layout: photopage
+title: "2004: familie FLODDER"
+external-url:
+categories: Weekenden
+visible: 1
+images:
+  - image_path: /assets/w2000/uilepas.jpg
+    title: De Ulenpas
+    description: "Het geweldige vakantie-oord: De Uilepas"
+  - image_path: /assets/w2000/boot.jpg
+    title: Meiden in boot
+    description: "Landgoedimpressie: alles OK!"
+  - image_path: /assets/w2000/groepsfoto.jpg
+    title: Groepsfoto
+    description: "Het Snepperweekend in 2000 met thema  Olympische Spelen: Frankrijk, Columbia, Belgie, Schotland en Mexico waren vertegenwoordigd." 
+  - image_path: /assets/w2000/touwtrekken.jpg
+    title: Touwtje trekken
+    description: "Een van de SnepperSpelen waren: touwtrekken"
+  - image_path: /assets/w2000/schotten.jpg
+    title: Schotse Mat
+    description: "Er moet natuurlijk een persoon het overzicht hebben."
+  - image_path: /assets/w2000/winnaars.jpg
+    title: De winnende ploeg
+    description: "En de winnaars van de Olympische Snepper Spelen zijn: "
+---
+
+De Gemeente HELDEN was zo vriendelijk om een optrekje beschikbaar te stellen aan onze familie FLODDER, ergens op de Veluwe. Dan heeft niemand er last van.......dachten ze. Bedankt SJAAKIE !!!!!
+Hier een aantal kiekjes voor onze allerbeste familiefotograaf OPAATJE.
