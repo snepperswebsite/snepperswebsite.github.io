@@ -5,8 +5,8 @@ external-url:
 categories: Weekenden
 visible: 1
 images:
-  - image_path: /assets/w2000/uilepas.jpg
-    title: De Ulenpas
+  - image_path: /assets/Echte-Familie-Flodder.jpg
+    title: Hier ons voorbeeld van de TV
     description: "Het geweldige vakantie-oord: De Uilepas"
   - image_path: /assets/w2000/boot.jpg
     title: Meiden in boot
