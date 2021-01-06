@@ -1,0 +1,39 @@
+---
+layout: photopage
+title: "2008: Sneppers got talent"
+external-url:
+categories: Weekenden
+visible: 1
+images:
+  - image_path: /assets/Echte-Familie-Flodder.jpg
+    title: Hier ons voorbeeld van de TV
+    description: "Het geweldige vakantie-oord: De Uilepas"
+  - image_path: /assets/w2000/boot.jpg
+    title: Meiden in boot
+    description: "Landgoedimpressie: alles OK!"
+  - image_path: /assets/w2000/groepsfoto.jpg
+    title: Groepsfoto
+    description: "Het Snepperweekend in 2000 met thema  Olympische Spelen: Frankrijk, Columbia, Belgie, Schotland en Mexico waren vertegenwoordigd." 
+  - image_path: /assets/w2000/touwtrekken.jpg
+    title: Touwtje trekken
+    description: "Een van de SnepperSpelen waren: touwtrekken"
+  - image_path: /assets/w2000/schotten.jpg
+    title: Schotse Mat
+    description: "Er moet natuurlijk een persoon het overzicht hebben."
+  - image_path: /assets/w2000/winnaars.jpg
+    title: De winnende ploeg
+    description: "En de winnaars van de Olympische Snepper Spelen zijn: "
+---
+
+Via email kwamen de ideeen voor dit jaar tot stand. Het werd "De Sneppers got talent", bekend van de TV. Zoals Marij K zei: alles kan en alles mag: zang, dans, acts, goochelen, cabaret, toneel,etc. etc. 
+Je kunt dit alleen doen of met meerdere, alles kan en alles mag, als je zelf maar volop geniet.
+
+In vogelvlucht zag het programma er als volgt uit.
+Woensdagavond		Aankomst, inruimen en lekker bijkletsen, en ik geloof ook nog een voetbal UEFA finale kijken.
+Donderdagochtend	Na het rijkelijk ontbijt was er weer het traditione bezoek aan de Rommelmarkt te Hoog-keppel.
+Donderdagavond		Sneppers got talent show. De foto's hieronder spreken voor zich: een hele mooie avond: talent en humor licht op straat!
+Vrijdag ochtend/middag	Wat uitslapen van de enerverende avond, lang ontbijten, wat fietsen, hardlopen.
+Vrijdagavond		Nog 1 muziekavond: YouTube show. Mat had van te voren per familie favourite liedjes opgevraagd. Deze werden met video op de donderdagavond afgespeeld in de hal. Het werd een zeer amuzante avond, met veel YouTube filmpjes uit de oude doos. Daar heeft iedereen van genoten. En Freek en Mathijs hadden bardienst.
+Zaterdag		Tijd voor de Posbank wandeling.
+Zaterdagavond		Gezellig samenzijn zonder een speciale activiteit.
+Zondag			Lekker lang ontbijten, stukje verplichting: opruimen, inpakken, stofzuigen, poetsen, boenen en schrobben... Met weemoed namen we afscheid van elkaar.

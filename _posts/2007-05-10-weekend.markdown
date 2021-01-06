@@ -1,0 +1,37 @@
+---
+layout: photopage
+title: "2007: Moordspel"
+external-url:
+categories: Weekenden
+visible: 1
+images:
+  - image_path: /assets/Echte-Familie-Flodder.jpg
+    title: Hier ons voorbeeld van de TV
+    description: "Het geweldige vakantie-oord: De Uilepas"
+  - image_path: /assets/w2000/boot.jpg
+    title: Meiden in boot
+    description: "Landgoedimpressie: alles OK!"
+  - image_path: /assets/w2000/groepsfoto.jpg
+    title: Groepsfoto
+    description: "Het Snepperweekend in 2000 met thema  Olympische Spelen: Frankrijk, Columbia, Belgie, Schotland en Mexico waren vertegenwoordigd." 
+  - image_path: /assets/w2000/touwtrekken.jpg
+    title: Touwtje trekken
+    description: "Een van de SnepperSpelen waren: touwtrekken"
+  - image_path: /assets/w2000/schotten.jpg
+    title: Schotse Mat
+    description: "Er moet natuurlijk een persoon het overzicht hebben."
+  - image_path: /assets/w2000/winnaars.jpg
+    title: De winnende ploeg
+    description: "En de winnaars van de Olympische Snepper Spelen zijn: "
+---
+
+Ook dit jaar hadden we met Hemelvaart het Snepper-weekend in de Ulepas, in Hoogkeppel bij Doesburg.
+Op de woensdagavond druppelden de families binnen.
+
+Hemelvaarts-donderdag was gereserveerd voor een bezoekje aan de jaarlijkse rommelmarkt in Hoog-Keppel. Dit was feest voor FreekG en Mathijs want die hadden voor weinig geld heeeeel veeeeel apparatuur gekocht. En die deed het ook nog!
+'s avonds was het moordspel. Mat had een mooi verhaal ervan gemaakt en de teams hadden zich passend verkleed, zie de leuke foto-impressie van het moordspel. En "The winner was" ......De Nerds (hoe kan het ook anders).
+
+De vrijdag werd besteed aan een wandeling en wat fitnes.
+Zaterdag gingen we naar Deventer. Een mooie stad om te bezoeken.
+De zondagmorgen: inpakken, opruimen en poetsen.
+
