@@ -28,4 +28,6 @@ images:
     description: "We hebben heerlijk gewandeld in 'De Posbank' op de Veluwe." 
 ---
 
-Ook dit jaar gingen we weer tijdens het lange Hemelvaart weekend op vakantie. Voor de variatie namen we dit keer een "plezant optrekje": Ulepas. Thema was: Piraten.
+Ook dit jaar gingen we weer tijdens het lange Hemelvaart weekend op vakantie. 
+Voor de variatie namen we dit keer een "plezant optrekje": Ulepas. 
+Thema was: Piraten.

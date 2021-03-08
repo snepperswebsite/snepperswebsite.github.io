@@ -25,5 +25,6 @@ images:
     description: "En de winnaars van de Olympische Snepper Spelen zijn: "
 ---
 
-In 2000 gingen we voor het eerst met de gehele groep tijdens het lange Hemelvaart weekend naar de Ulepas. Dit is een prachtig landgoed dat via het werk van Wim (Transfer Solutions) hadden kunnen reserveren. Dat is boffen. 
+In 2000 gingen we voor het eerst met de gehele groep tijdens het lange Hemelvaart weekend naar de Ulepas. 
+Dit is een prachtig landgoed dat via het werk van Wim (Transfer Solutions) hadden kunnen reserveren. Dat is boffen. 
 Thema was "Olympische Spelen".

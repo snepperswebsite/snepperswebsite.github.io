@@ -5,25 +5,32 @@ external-url:
 categories: Weekenden
 visible: 1
 images:
-  - image_path: /assets/Echte-Familie-Flodder.jpg
+  - image_path: /assets/w2004/flodder-meiden-op-stap.jpg
+    title: De Flodder-meiden op stap (naar de rommelmarkt)
+    description: "De Flodder-meiden op stap (naar de rommelmarkt)"
+  - image_path: /assets/w2004/Echte-Familie-Flodder.jpg
     title: Hier ons voorbeeld van de TV
-    description: "Het geweldige vakantie-oord: De Uilepas"
-  - image_path: /assets/w2000/boot.jpg
-    title: Meiden in boot
-    description: "Landgoedimpressie: alles OK!"
-  - image_path: /assets/w2000/groepsfoto.jpg
-    title: Groepsfoto
-    description: "Het Snepperweekend in 2000 met thema  Olympische Spelen: Frankrijk, Columbia, Belgie, Schotland en Mexico waren vertegenwoordigd." 
-  - image_path: /assets/w2000/touwtrekken.jpg
-    title: Touwtje trekken
-    description: "Een van de SnepperSpelen waren: touwtrekken"
-  - image_path: /assets/w2000/schotten.jpg
-    title: Schotse Mat
-    description: "Er moet natuurlijk een persoon het overzicht hebben."
-  - image_path: /assets/w2000/winnaars.jpg
-    title: De winnende ploeg
-    description: "En de winnaars van de Olympische Snepper Spelen zijn: "
+    description: "De echte familie FLODDER"
+  - image_path: /assets/w2004/toneel-jongens.jpg
+    title: toneel door de jongens
+    description: "toneel door de jongens, wat verwarring waar het over gaat..."
+  - image_path: /assets/w2004/toneel-vrouwen.jpg
+    title: toneel door de Snepper vrouwen
+    description: "Er waren wat benen over...." 
+  - image_path: /assets/w2004/toneel-mannen.jpg
+    title: toneel door de mannen
+    description: "Aan de bar natuurlijk..."
+  - image_path: /assets/w2004/toneeltje-door-meiden.jpg
+    title: toneeltje door meiden
+    description: "Slapstick achtig..."
+  - image_path: /assets/w2004/buikspreken.jpg
+    title: buikspreken
+    description: "buikspreken door de familie Verstappen..."
+  - image_path: /assets/w2004/To-to-the-Loo-fontein-bij-kasteeltuin.jpg
+    title: Bij paleis Het Loo met zijn tuinen, fonteinen
+    description: "Groepsfoto op afstand"
 ---
 
-De Gemeente HELDEN was zo vriendelijk om een optrekje beschikbaar te stellen aan onze familie FLODDER, ergens op de Veluwe. Dan heeft niemand er last van.......dachten ze. Bedankt SJAAKIE !!!!!
+De Gemeente HELDEN was zo vriendelijk om een optrekje beschikbaar te stellen aan onze familie FLODDER, ergens op de Veluwe. 
+Dan heeft niemand er last van.......dachten ze. Bedankt SJAAKIE !!!!!
 Hier een aantal kiekjes voor onze allerbeste familiefotograaf OPAATJE.
