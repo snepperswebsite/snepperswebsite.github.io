@@ -8,6 +8,7 @@ images:
   - image_path: /assets/w2005/Ulepas-ons-verblijf.jpg
     title: boeren-hoeve
     description: "Onze boeren-hoeve, niet slecht he..."
+  - image_path: /assets/w2005/groepsfoto.jpg
     title: De boerenfamilie
     description: "Opa, oma, vader, moader, ome Grad en tante Sjraar, en de kinger..."
   - image_path: /assets/w2005/oud-vrouwtje.jpg
@@ -31,18 +32,18 @@ images:
     title: boeren-feest
     description: "Boeren feest, altijd gezellig"
   - image_path: /assets/w2005/spelen-aan-het-water.jpg
-    title: spelen-aan-het-water
+    title: Spelen aan het gracht
     description: "spelen-aan-het-water"
 
   - image_path: /assets/w2005/brug.jpg
     title: brug
     description: "brug"
-  - image_path: /assets/w2005/wandeling.jpg
-    title: wandeling
-    description: "wandeling"
   - image_path: /assets/w2005/wandeling2.jpg
     title: wandeling2
-    description: "wandeling2"
+    description: "Wandeling door het Achterhoekse landschap"
+  - image_path: /assets/w2005/wandeling.jpg
+    title: wandeling
+    description: "Wandeling: moeten we nog ver??"
 
   - image_path: /assets/w2005/wandeling-mat-en-theo-overleggen.jpg
     title: wandeling-mat-en-theo-overleggen
