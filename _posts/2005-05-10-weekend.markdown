@@ -6,18 +6,17 @@ categories: Weekenden
 visible: 1
 images:
   - image_path: /assets/w2005/Ulepas-ons-verblijf.jpg
-    title: Onze boeren-hoeve, niet slecht he...
-    description: "Het geweldige vakantie-oord: De Uilepas"
-  - image_path: /assets/w2005/groepsfoto.jpg
+    title: boeren-hoeve
+    description: "Onze boeren-hoeve, niet slecht he..."
     title: De boerenfamilie
-    description: "Opa, oma, vader, moader, ome Grad en tante Sjan, en de kinger..."
+    description: "Opa, oma, vader, moader, ome Grad en tante Sjraar, en de kinger..."
   - image_path: /assets/w2005/oud-vrouwtje.jpg
     title: oud vrouwtje
     description: "oud-vrouwtje, wie was dat ook al weer?" 
 
   - image_path: /assets/w2005/tante-sjraar.jpg
     title: tante-sjraar
-    description: "tante-sjraar, sexy he"
+    description: "Tante Sjraar, sexy he"
   - image_path: /assets/w2005/boerenspel.jpg
     title: boerenspel
     description: "boerenspel: meer dan hoepelen en bieten gooien."
@@ -30,7 +29,7 @@ images:
     description: "boer-mat-met-pils"
   - image_path: /assets/w2005/boeren-feest.jpg
     title: boeren-feest
-    description: "boeren-feest"
+    description: "Boeren feest, altijd gezellig"
   - image_path: /assets/w2005/spelen-aan-het-water.jpg
     title: spelen-aan-het-water
     description: "spelen-aan-het-water"
@@ -47,23 +46,15 @@ images:
 
   - image_path: /assets/w2005/wandeling-mat-en-theo-overleggen.jpg
     title: wandeling-mat-en-theo-overleggen
-    description: "wandeling-mat-en-theo-overleggen"
+    description: "Theo en Mat overleggen welke kant we opmoeten bij de wandeling."
   - image_path: /assets/w2005/uitgeput.jpg
     title: uitgeput
-    description: "uitgeput"
+    description: "Lei is uitgeput, dacht dat hij een bereconditie had."
   - image_path: /assets/w2005/web-master-malle-boer-matt.jpg
     title: web-master-malle-boer-matt
-    description: "web-master-malle-boer-matt"
+    description: "Webmaster Malle-boer-matt"
 
-  - image_path: /assets/w2005/wandeling-mat-en-theo-overleggen.jpg
-    title: wandeling-mat-en-theo-overleggen
-    description: "wandeling-mat-en-theo-overleggen"
-  - image_path: /assets/w2005/uitgeput.jpg
-    title: uitgeput
-    description: "uitgeput"
-  - image_path: /assets/w2005/web-master-malle-boer-matt.jpg
-    title: web-master-malle-boer-matt
-    description: "web-master-malle-boer-matt"
 ---
 
-Het was een gezellige boel met de boeren uit Beringe.
+Het was een gezellige boel met de boeren uit Beringe. We hadden boerenspellen, boerenmaaltijden, boeren-toneel en 
+Ook nog een flinke wandeling gemaakt.
