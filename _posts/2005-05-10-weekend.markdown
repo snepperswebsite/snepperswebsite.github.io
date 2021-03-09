@@ -5,24 +5,65 @@ external-url:
 categories: Weekenden
 visible: 1
 images:
-  - image_path: /assets/Echte-Familie-Flodder.jpg
-    title: Hier ons voorbeeld van de TV
+  - image_path: /assets/w2005/Ulepas-ons-verblijf.jpg
+    title: Onze boeren-hoeve, niet slecht he...
     description: "Het geweldige vakantie-oord: De Uilepas"
-  - image_path: /assets/w2000/boot.jpg
-    title: Meiden in boot
-    description: "Landgoedimpressie: alles OK!"
-  - image_path: /assets/w2000/groepsfoto.jpg
-    title: Groepsfoto
-    description: "Het Snepperweekend in 2000 met thema  Olympische Spelen: Frankrijk, Columbia, Belgie, Schotland en Mexico waren vertegenwoordigd." 
-  - image_path: /assets/w2000/touwtrekken.jpg
-    title: Touwtje trekken
-    description: "Een van de SnepperSpelen waren: touwtrekken"
-  - image_path: /assets/w2000/schotten.jpg
-    title: Schotse Mat
-    description: "Er moet natuurlijk een persoon het overzicht hebben."
-  - image_path: /assets/w2000/winnaars.jpg
-    title: De winnende ploeg
-    description: "En de winnaars van de Olympische Snepper Spelen zijn: "
+  - image_path: /assets/w2005/groepsfoto.jpg
+    title: De boerenfamilie
+    description: "Opa, oma, vader, moader, ome Grad en tante Sjan, en de kinger..."
+  - image_path: /assets/w2005/oud-vrouwtje.jpg
+    title: oud vrouwtje
+    description: "oud-vrouwtje, wie was dat ook al weer?" 
+
+  - image_path: /assets/w2005/tante-sjraar.jpg
+    title: tante-sjraar
+    description: "tante-sjraar, sexy he"
+  - image_path: /assets/w2005/boerenspel.jpg
+    title: boerenspel
+    description: "boerenspel: meer dan hoepelen en bieten gooien."
+  - image_path: /assets/w2005/boeren-toneel.jpg
+    title: boeren-toneel
+    description: "Boeren-toneel"
+
+  - image_path: /assets/w2005/boer-mat-met-pils.jpg
+    title: boer-mat-met-pils
+    description: "boer-mat-met-pils"
+  - image_path: /assets/w2005/boeren-feest.jpg
+    title: boeren-feest
+    description: "boeren-feest"
+  - image_path: /assets/w2005/spelen-aan-het-water.jpg
+    title: spelen-aan-het-water
+    description: "spelen-aan-het-water"
+
+  - image_path: /assets/w2005/brug.jpg
+    title: brug
+    description: "brug"
+  - image_path: /assets/w2005/wandeling.jpg
+    title: wandeling
+    description: "wandeling"
+  - image_path: /assets/w2005/wandeling2.jpg
+    title: wandeling2
+    description: "wandeling2"
+
+  - image_path: /assets/w2005/wandeling-mat-en-theo-overleggen.jpg
+    title: wandeling-mat-en-theo-overleggen
+    description: "wandeling-mat-en-theo-overleggen"
+  - image_path: /assets/w2005/uitgeput.jpg
+    title: uitgeput
+    description: "uitgeput"
+  - image_path: /assets/w2005/web-master-malle-boer-matt.jpg
+    title: web-master-malle-boer-matt
+    description: "web-master-malle-boer-matt"
+
+  - image_path: /assets/w2005/wandeling-mat-en-theo-overleggen.jpg
+    title: wandeling-mat-en-theo-overleggen
+    description: "wandeling-mat-en-theo-overleggen"
+  - image_path: /assets/w2005/uitgeput.jpg
+    title: uitgeput
+    description: "uitgeput"
+  - image_path: /assets/w2005/web-master-malle-boer-matt.jpg
+    title: web-master-malle-boer-matt
+    description: "web-master-malle-boer-matt"
 ---
 
 Het was een gezellige boel met de boeren uit Beringe.
