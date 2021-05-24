@@ -28,16 +28,19 @@ layout: default
 	     </div>
      </div>
 
-     
-
-
     <div class="row">
     <div class="col-md-1"></div>
     <div class="col-md-8 offset-md-1">
         <div class="imgrow">
         {% for image in page.images %}
         <div class="imgcolumn">
-            <div class="imgelement"><a href="{{image.image_path}}"><img src="{{ image.image_path }}" alt="{{ image.title}}" width="100%"/></a><BR>{{ image.description}}</div>
+            <div class="imgelement">
+            {% if image.is_video %}
+		<video width="100%" preload='metadata' controls> <source src="{{image.image_path}}"/> </video>
+            {% else %}
+		<a href="{{image.image_path}}"><img src="{{image.image_path}}" alt="{{image.title}}" width="100%"/></a>
+            {% endif %}
+            <BR>{{image.description}}</div>
         </div>
         {% endfor %}
         </div>

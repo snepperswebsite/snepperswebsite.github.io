@@ -5,24 +5,35 @@ external-url:
 categories: Weekenden
 visible: 1
 images:
-  - image_path: /assets/Echte-Familie-Flodder.jpg
-    title: Hier ons voorbeeld van de TV
-    description: "Het geweldige vakantie-oord: De Uilepas"
-  - image_path: /assets/w2000/boot.jpg
-    title: Meiden in boot
-    description: "Landgoedimpressie: alles OK!"
-  - image_path: /assets/w2000/groepsfoto.jpg
-    title: Groepsfoto
-    description: "Het Snepperweekend in 2000 met thema  Olympische Spelen: Frankrijk, Columbia, Belgie, Schotland en Mexico waren vertegenwoordigd." 
-  - image_path: /assets/w2000/touwtrekken.jpg
+  - image_path: /assets/w2006/HPIM0553.JPG
+    title: Het terras
+    description: " Voorbereidingen voor de WK spellen 2006. We deden een hele originele warming-up!" 
+  - image_path: /assets/w2006/HPIM0555.JPG
     title: Touwtje trekken
-    description: "Een van de SnepperSpelen waren: touwtrekken"
-  - image_path: /assets/w2000/schotten.jpg
+    description: " Touwtrekken mag niet ontbreken."
+  - image_path: /assets/w2006/HPIM0556.JPG
     title: Schotse Mat
-    description: "Er moet natuurlijk een persoon het overzicht hebben."
-  - image_path: /assets/w2000/winnaars.jpg
+    description: " Frits houdt beide teams bij elkaar!!"
+    
+  - image_path: /assets/w2006/HPIM0557.JPG
     title: De winnende ploeg
-    description: "En de winnaars van de Olympische Snepper Spelen zijn: "
+    description: " Eier-lopen"
+  - image_path: /assets/w2006/HPIM0559.JPG
+    title: Het terras
+    description: "Valse start Sjef?" 
+  - image_path: /assets/w2006/HPIM0561.JPG
+    title: Touwtje trekken
+    description: "Het was glad; weg witte kleren"
+    
+  - image_path: /assets/w2006/HPIM0565.JPG
+    title: Schotse Mat
+    description: "Oranje team was de winnaar (met de vingers fluitend in de neusgaten, he Wim)"
+  - image_path: /assets/w2006/HPIM0567.JPG
+    title: De winnende ploeg
+    description: "Darten; Laura gooit hier 180 ! Ger is erg verbaast"
+  - image_path: /assets/w2006/HPIM0570.JPG
+    title: Het terras
+    description: "Tijdens de stadswandeling in Zutphen" 
 ---
 
 Ook dit jaar hadden we met Hemelvaart (24 - 28 mei 2006) het Snepper-weekend in de Ulepas, in Hoogkeppel bij Doesburg.
