@@ -5,38 +5,40 @@ external-url:
 categories: Weekenden
 visible: 1
 images:
-  - image_path: /assets/Echte-Familie-Flodder.jpg
-    title: Hier ons voorbeeld van de TV
-    description: "Het geweldige vakantie-oord: De Uilepas"
-  - image_path: /assets/w2000/boot.jpg
-    title: Meiden in boot
-    description: "Landgoedimpressie: alles OK!"
-  - image_path: /assets/w2000/groepsfoto.jpg
-    title: Groepsfoto
-    description: "Het Snepperweekend in 2000 met thema  Olympische Spelen: Frankrijk, Columbia, Belgie, Schotland en Mexico waren vertegenwoordigd." 
-  - image_path: /assets/w2000/touwtrekken.jpg
-    title: Touwtje trekken
-    description: "Een van de SnepperSpelen waren: touwtrekken"
-  - image_path: /assets/w2000/schotten.jpg
-    title: Schotse Mat
-    description: "Er moet natuurlijk een persoon het overzicht hebben."
-  - image_path: /assets/w2000/winnaars.jpg
-    title: De winnende ploeg
-    description: "En de winnaars van de Olympische Snepper Spelen zijn: "
+  - image_path: /assets/w2012/DSC08542.jpg
+    title: Oermannen
+    description: "Eitjes bakken in de wildernis"
+  - image_path: /assets/w2012/DSC08516.jpg
+    title: Ulenpas
+    description: "De Ulenpas bij nacht"
+  - image_path: /assets/w2012/DSC08554.JPG
+    title: Aardappelschillers
+    description: "Voorbereidingen treffen voor het heldenmaal"
 ---
 
-Dit jaar werd het thema bedacht en voorbereid door Tina Verstappen en Pien Koopmans. De kregen via email van tevoren een kleine beschrijving en het was allemaal geheimzinnig: 
-Wie is de MOL en die zou gaan intrigeren, liegen, saboteren....
+Dit jaar werd het thema bedacht en voorbereid door Tina Verstappen en Pien Koopmans. We kregen per e-mail van tevoren een kleine beschrijving en het was allemaal geheimzinnig;
 
-Het programma zag er uiteindelijk zo uit:
-Woensdagavond	Aankomst: Leo was met te fiets gekomen want die moest oefenen voor de Alpe d'Huzes, enkelen waren vanuit hun studentenkamer gekomen. Zo rond 11 uur was iedereen er, behalve Rob Timmermans (moest het gehele weekend werken: asperges steken) en Freek Koopmans (veel muziek maken, druk druk druk). We hebben gezellig bij elkaar gegezeten, Black stories werden verteld (en die Frits V voelde vaak aan waar het naar toe ging). Het Mol spel werd geintroduceerd en we moesten tot 20 tellen onder strikte regels.
-Donderdag	Na het altijd gezellige ontbijt was er weer het traditione bezoek aan de Rommelmarkt te Hoog-keppel. Dit jaar werd er niet zo veel tijd aan besteed en weinig gekocht door Freek en Mathijs. Na de lunch heeft 1 groep gefiets naar Bronkhorst en 1 groep gelopen naar Doesburg. Het was verrassend goed weer, maar als de zon weg was, was het toch te koud zonder jas.
+> Wie is de Mol? Wie gaat intrigeren, liegen, saboteren...?
+
+## Het programma zag er uiteindelijk zo uit:
+
+### Woensdagavond
+Aankomst: Leo was met te fiets gekomen want die moest oefenen voor de Alpe d'Huzes, enkelen waren vanuit hun studentenkamer gekomen. Zo rond 11 uur was iedereen er, behalve Rob Timmermans (moest het gehele weekend werken: asperges steken) en Freek Koopmans (veel muziek maken, druk druk druk). We hebben gezellig bij elkaar gegezeten, Black stories werden verteld (en die Frits V voelde vaak aan waar het naar toe ging). Het Mol spel werd geintroduceerd en we moesten tot 20 tellen onder strikte regels.
+
+### Donderdag
+Na het altijd gezellige ontbijt was er weer het traditione bezoek aan de Rommelmarkt te Hoog-keppel. Dit jaar werd er niet zo veel tijd aan besteed en weinig gekocht door Freek en Mathijs. Na de lunch heeft 1 groep gefiets naar Bronkhorst en 1 groep gelopen naar Doesburg. Het was verrassend goed weer, maar als de zon weg was, was het toch te koud zonder jas.
 Na een heerlijke Snepper avondmaaltijd (salade, rijst, gehaktballetjes, bonen in zoet-zuur, penne, vleessliertjes en asperges!! , Na de koffie een klein uurtje Mol spel: een verhaal doorvertellen door 5 personen en de anderen moesten raden welke woorden in ieder geval zouden overblijven van het oorspronkelijke verhaal (koning Lodewijk de 16e).
 Daarna nog een hele tijd muziektunes raden die Sjef afspeelde van zijn PC. Het was hele goede muziek van de jaren 70,80,90.
-Vrijdag	Enkelen hadden een stuk gerend voor het ontbijt, wat altijd heel gezellig is. Ook weer een uurtje Nol spel buiten: uitbeelden van een woorden die in enveloppen zaten. Pas om 12 uur bezoek aan Arnhem, wat winkelen, koffie drinken. In de parkeergarage bostten 2 potentiele MOLLEN met de auto tegen elkaar. Jammer, maar gelukkig bleek de schade mee te vallen. "Thuis" aangekomen was het enkele uurtjes luieren. 
+
+### Vrijdag
+Enkelen hadden een stuk gerend voor het ontbijt, wat altijd heel gezellig is. Ook weer een uurtje Nol spel buiten: uitbeelden van een woorden die in enveloppen zaten. Pas om 12 uur bezoek aan Arnhem, wat winkelen, koffie drinken. In de parkeergarage bostten 2 potentiele MOLLEN met de auto tegen elkaar. Jammer, maar gelukkig bleek de schade mee te vallen. "Thuis" aangekomen was het enkele uurtjes luieren. 
 Na weer een heerlijke maaltijd van onze dames was het tijd voor koffie, Hartejagen, bijpraten, maar voor de jeugd was het blijkbaar meer te beleven (want die hadden een lol).
-Zaterdag	Het was heel mooi weer, tijd voor de traditionele Posbank wandeling. Toen we terugkwamen was de lunch al geheel voorbereid door Stan, Siem en Theo? (op vriendelijk doch duidelijk verzoek via telefoontje door Mat: het had geholpen). In de midden nog leuke Mol-spelen: ballontrappen en eitje bakken op provisorische wijze. Tja, werd het al duidelijk wie de mol zou zijn??
+
+### Zaterdag
+Het was heel mooi weer, tijd voor de traditionele Posbank wandeling. Toen we terugkwamen was de lunch al geheel voorbereid door Stan, Siem en Theo? (op vriendelijk doch duidelijk verzoek via telefoontje door Mat: het had geholpen). In de midden nog leuke Mol-spelen: ballontrappen en eitje bakken op provisorische wijze. Tja, werd het al duidelijk wie de mol zou zijn??
 In de avond was de CL finale: Bayern Munchen tegen Chelsea. Ondanks dat Bayern veel beter was en vele kansen kreeg (o.a. de gemiste 11 meter door Arjan Robben), verloren ze de finale door penalty schieten.
 En eindelijk was het tijd voor de onthullimg van de Mol!!! De verrassende Mol was Ger Verstappen. Er waren diverse mensen die het de laatste avond goed hadden, maar er was er maar 1 die het de gehele tijd voorspeld was, en dat was Mathijs. Proficiat en erg  bedankt voor de goede organisatie door Tina en Pien. Grappig voorval was trouwens dat Mathijs de prijs bijna had gemist omdat de Mol de invulbriefjes had veranderd!
-Zondag	Het geweldige Ulenpas 2012 weekend zat erop, behalve dan nog een stukje verplichting: opruimen, inpakken, stofzuigen, poetsen, boenen en schrobben... Met weemoed namen we afscheid van elkaar.
-Hieronder een collage van de leukste foto's. Klik op onderstaande foto's voor een vergroting. DEZE KOMEN NOG.......stuur de webmaster maar eens de mooiste foto's.
+
+### Zondag
+Het geweldige Ulenpas 2012 weekend zat erop, behalve dan nog een stukje verplichting: opruimen, inpakken, stofzuigen, poetsen, boenen en schrobben... Met weemoed namen we afscheid van elkaar.
+Hieronder een collage van de leukste foto's. 

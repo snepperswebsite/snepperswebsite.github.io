@@ -5,42 +5,58 @@ external-url:
 categories: Weekenden
 visible: 1
 images:
-  - image_path: /assets/Echte-Familie-Flodder.jpg
-    title: Hier ons voorbeeld van de TV
-    description: "Het geweldige vakantie-oord: De Uilepas"
-  - image_path: /assets/w2000/boot.jpg
-    title: Meiden in boot
-    description: "Landgoedimpressie: alles OK!"
-  - image_path: /assets/w2000/groepsfoto.jpg
-    title: Groepsfoto
-    description: "Het Snepperweekend in 2000 met thema  Olympische Spelen: Frankrijk, Columbia, Belgie, Schotland en Mexico waren vertegenwoordigd." 
-  - image_path: /assets/w2000/touwtrekken.jpg
-    title: Touwtje trekken
-    description: "Een van de SnepperSpelen waren: touwtrekken"
-  - image_path: /assets/w2000/schotten.jpg
-    title: Schotse Mat
-    description: "Er moet natuurlijk een persoon het overzicht hebben."
-  - image_path: /assets/w2000/winnaars.jpg
-    title: De winnende ploeg
-    description: "En de winnaars van de Olympische Snepper Spelen zijn: "
+
+  - image_path: /assets/w2010/moeders-uitrusten.jpg
+    title: moeders-uitrusten
+    description: "Moeders uitrusten"
+  - image_path: /assets/w2010/de-jongsten.jpg
+    title: de-jongsten
+    description: "De jongsten"
+
+
+  - image_path: /assets/w2010/boot-opzij.jpg
+    title: boot-opzij
+    description: "Boot opzij"
+  - image_path: /assets/w2010/filmpie.mpg
+    title: filmpie
+    description: "Filmpie"
+    is_video: true
+  - image_path: /assets/w2010/pauze.jpg
+    title: pauze
+    description: "Pauze"
+
+
+  - image_path: /assets/w2010/jenl-jarig.jpg
+    title: jenl-jarig
+    description: "J en L jarig"
 ---
 
 Iedereen verheugt zich al volop op de 11e Ulenpas, het is bijna zover!
-Na veel bedenken, brainstormen, ideeen, verzinsels en democratisch stemmen onder de junioren is dan eindelijk het thema bekend..........
+Na veel bedenken, brainstormen, ideeen, verzinsels en democratisch stemmen onder de junioren is dan eindelijk het thema bekend: **Sneppers de Musical!**
 
-Het programma zag er uiteindelijk zo uit:
-Woensdagavond	Arriveren en uitpakken
-Donderdag overdag	De rommelmarkt natuurlijk! Na het avondeten begin met het musical programma; omkleden, oefenen, uitvoering, daarna de feestavond met muziek en beamer.
-Donderdagavond	Deze staat in dit thema en er is een programma bedacht... maar plankenkoorts is niet nodig hoor! Hiervoor mag iedereen zich omtoveren tot een musicalkarakter, van het podium of het witte doek! 
-Van de Wizzard of Oss tot Cats en van Les Miserables tot Evita, van Tarzan tot Mary Poppins, van Junglebook tot de Sound of music, van High school musical tot de rattenvanger van Hamelen, van Westsidestory tot de Leeuwenkoning, 
-van de Phantom of the Opera tot Jezus Christ Superstar, van Belle en het Beest tot Mamma Mia. (En alles mag, ook van figurant tot fantasie. Je mag het geheim houden maar dat hoeft niet).
+## Woensdag
+Arriveren en uitpakken
+
+## Donderdag
+'s Morgens: De rommelmarkt natuurlijk! 
+
+Na het avondeten begin met het musicalprogramma; omkleden, oefenen, uitvoering, daarna de feestavond met muziek en beamer.
+Deze staat in dit thema en er is een programma bedacht... maar plankenkoorts is niet nodig hoor!
+Hiervoor mag iedereen zich omtoveren tot een musicalkarakter, van het podium of het witte doek! 
+Van de Wizzard of Oss tot Cats en van Les Miserables tot Evita, van Tarzan tot Mary Poppins, van Junglebook tot de Sound of music, van High school musical tot de rattenvanger van Hamelen, van Westsidestory tot de Leeuwenkoning, van de Phantom of the Opera tot Jezus Christ Superstar, van Belle en het Beest tot Mamma Mia (En alles mag, ook van figurant tot fantasie. Je mag het geheim houden maar dat hoeft niet).
+
 Uiteindelijk zal er een sneppermusical worden opgevoerd, samengevat idee: 
 in een aantal groepjes met elk een hoofdstuk die uiteindelijk allemaal achter elkaar worden gespeeld waardoor een verrassend geheel ontstaat waarvan niemand de afloop kan voorspellen. 
 De groepjes worden daar volgens nummertjes trekken gevormd. Je zit dus met hele verschillende verklede mensen bij elkaar, en of je dat gebruikt in het stuk of nieuwe eigenschappen bedenkt maakt niet uit.
 Je krijgt een tekstzin waarmee je moet beginnen en een zin waarmee je eindigt, en waar het volgende groepje weer op aansluit.
-Deze Musical zal worden afgesloten met het premiere gala bal voor de sterren, dus de feestelijke kleding is weer welkom! Of in de verkleedkleren?
-Vrijdag	Overdag is er een activiteit door Lotte bedacht. 's avonds is er een verrassingsfeestje van de 3 jarigen JULIA TINA LAURA...
-Zaterdag overdag	Wandelen op de Posbank.
-Zaterdagavond	Luieren en bijkletsen.
-Zondag	Opruimen en afscheid...
-Hieronder een collage van de leukste foto's (er volgen nog meer foto's). Klik op onderstaande foto's voor een vergroting.
+
+Deze Musical zal worden afgesloten met het premiere-gala voor de sterren, dus de feestelijke kleding is weer welkom! Of in de verkleedkleren?
+
+## Vrijdag
+Een door Lotte bedachte activiteit. 'S avonds is er een verrassingsfeestje voor de 3 jarigen: JULIA TINA LAURA...
+
+## Zaterdag
+Overdag traditioneel wandelen op de Posbank. 's Avonds lekker luieren en bijkletsen.
+
+## Zondag
+Opruimen en afscheid...

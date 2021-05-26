@@ -8,15 +8,13 @@ images:
   - image_path: /assets/w2004/flodder-meiden-op-stap.jpg
     title: De Flodder-meiden op stap (naar de rommelmarkt)
     description: "De Flodder-meiden op stap (naar de rommelmarkt)"
-  - image_path: /assets/w2004/Echte-Familie-Flodder.jpg
-    title: Hier ons voorbeeld van de TV
-    description: "De echte familie FLODDER"
   - image_path: /assets/w2004/toneel-jongens.jpg
     title: toneel door de jongens
     description: "toneel door de jongens, wat verwarring waar het over gaat..."
   - image_path: /assets/w2004/toneel-vrouwen.jpg
     title: toneel door de Snepper vrouwen
     description: "Er waren wat benen over...." 
+    
   - image_path: /assets/w2004/toneel-mannen.jpg
     title: toneel door de mannen
     description: "Aan de bar natuurlijk..."
@@ -25,6 +23,11 @@ images:
     description: "Slapstick achtig..."
   - image_path: /assets/w2004/buikspreken.jpg
     title: buikspreken
+    description: Opgewekte Lotte en Frits
+
+  - image_path: /assets/w2004/Echte-Familie-Flodder.jpg
+    title: Hier ons voorbeeld van de TV
+    description: "De echte familie FLODDER"
     description: "buikspreken door de familie Verstappen..."
   - image_path: /assets/w2004/To-to-the-Loo-fontein-bij-kasteeltuin.jpg
     title: Bij paleis Het Loo met zijn tuinen, fonteinen

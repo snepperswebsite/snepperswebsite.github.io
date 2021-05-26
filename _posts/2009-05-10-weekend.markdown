@@ -5,41 +5,90 @@ external-url:
 categories: Weekenden
 visible: 1
 images:
-  - image_path: /assets/Echte-Familie-Flodder.jpg
-    title: Hier ons voorbeeld van de TV
-    description: "Het geweldige vakantie-oord: De Uilepas"
-  - image_path: /assets/w2000/boot.jpg
-    title: Meiden in boot
-    description: "Landgoedimpressie: alles OK!"
-  - image_path: /assets/w2000/groepsfoto.jpg
-    title: Groepsfoto
-    description: "Het Snepperweekend in 2000 met thema  Olympische Spelen: Frankrijk, Columbia, Belgie, Schotland en Mexico waren vertegenwoordigd." 
-  - image_path: /assets/w2000/touwtrekken.jpg
-    title: Touwtje trekken
-    description: "Een van de SnepperSpelen waren: touwtrekken"
-  - image_path: /assets/w2000/schotten.jpg
-    title: Schotse Mat
-    description: "Er moet natuurlijk een persoon het overzicht hebben."
-  - image_path: /assets/w2000/winnaars.jpg
-    title: De winnende ploeg
-    description: "En de winnaars van de Olympische Snepper Spelen zijn: "
+
+  - image_path: /assets/w2009/IMG_5087.jpg
+    title: IMG_5087
+    description: "Img 5087"
+  - image_path: /assets/w2009/IMG_0884.JPG
+    title: IMG_0884
+    description: "Img 0884"
+  - image_path: /assets/w2009/TIENjaaUlepas.jpg
+    title: Tien jaar Ulenpas
+    description: "Tien jaar Ulenpas!"
+
+
+  - image_path: /assets/w2009/IMG_1054.JPG
+    title: IMG_1054
+    description: "Img 1054"
+  - image_path: /assets/w2009/IMG_1230.JPG
+    title: IMG_1230
+    description: "Img 1230"
+  - image_path: /assets/w2009/IMG_5256.jpg
+    title: IMG_5256
+    description: "Img 5256"
+
+
+  - image_path: /assets/w2009/IMG_4909.jpg
+    title: IMG_4909
+    description: "Img 4909"
+  - image_path: /assets/w2009/IMG_1236.JPG
+    title: IMG_1236
+    description: "Img 1236"
+  - image_path: /assets/w2009/IMG_1238.JPG
+    title: IMG_1238
+    description: "Img 1238"
+
+
+  - image_path: /assets/w2009/thriller-op-dansvloer.jpg
+    title: thriller-op-dansvloer
+    description: "Thriller op dansvloer"
+  - image_path: /assets/w2009/IMG_5311.jpg
+    title: IMG_5311
+    description: "Img 5311"
+  - image_path: /assets/w2009/IMG_1243.JPG
+    title: IMG_1243
+    description: "Img 1243"
+
+
+  - image_path: /assets/w2009/groepsfoto-bekende-mensen-1.jpg
+    title: groepsfoto-bekende-mensen-1
+    description: "Groepsfoto bekende mensen 1"
+  - image_path: /assets/w2009/IMG_5057.jpg
+    title: IMG_5057
+    description: "Img 5057"
+  - image_path: /assets/w2009/IMG_0872.JPG
+    title: IMG_0872
+    description: "Img 0872"
+
+
+  - image_path: /assets/w2009/IMG_1245.JPG
+    title: IMG_1245
+    description: "Img 1245"
+  - image_path: /assets/w2009/IMG_1232.JPG
+    title: IMG_1232
+    description: "Img 1232"
+  - image_path: /assets/w2009/groepsfoto-bekende-mensen-2.jpg
+    title: groepsfoto-bekende-mensen-2
+    description: "Groepsfoto bekende mensen 2"
+
+
 ---
 
 Het was een heel leuk weekend. Er was van alles te beleven.
 
-Woensdagavond 20 mei:
+## Woensdag
 Arriveren, uitpakken, UEFA-cup finale (jammer voor de meiden/dames, maar jullie amuseren je wel denk ik)
 Om 22:55 uur zijn we met zijn allen naar buiten gegaan om de ISS-sateliet voorbij zien te komen. Na enkele minuten nog niets, zou Mat zich vergist hebben...... neen daar nadert een alsmaar helder wordende ster ons vanuit het zuiden.
 Toen de ISS voorbij was, hebben we tezamen geproost op 10 jaar Sneppers in de Ulepas en op het komende Hemelvaart weekend.
 
-Donderdag 21 mei:
+## Donderdag
 Overdag: Rommelmarkt Keppel (speciaal aangevraagd door Freek & Mathijs). Mat en Marij moesten op de 1e Communie in Belgie.
 Avond: "Bekende mensen op bezoek bij de Ulepas". Bedoeling is dat ieder (individueel, duo of groepje) bekende mensen/celebreties na doet. Het leukste is echt dat 't nog geheim is wie je uitbeeldt.
 Dus bij deze het verzoek aan ieder om een bekend iemand uit te kiezen (bv jouw idool), tegen niemand zeggen, passende kleding verzamelen. Neem svp een ander persoon als je al iets verklapt hebt.
 Tijdens de avond proberen we te raden wie wie is. Op 't eind vd avond bepalen we wie de meeste goed heeft geraden.
 Dit was heel goed geslaagd. Wat een mooie groepsfoto he!
 
-Vrijdag 22 mei:
+## Vrijdag
 Overdag was het lekker luieren.
 Avond: Feestavond ULEPAS 10 JAAR. Dit keer hadden we de woonkamer als feestruimte gekozen. De houtenvloer is een prima dansvloer gebleken.
 Goede geluidsinstallatie, beamer en Top2000 muziek was aanwezig.
@@ -48,14 +97,14 @@ De obers Freek G en Mathijs waren zeer attent.
 De jeugd (met als gangmanker kers-verse meester Freek K) gingen de volwassenen voor. Thriller werd helemaal echt nagedaan. Michael Jackson zou er jaloers op zijn. Heeft hij het daarom niet overleefd?
 Op het laatst was iedereen actief, tot aan polonaise door de kamers toe. Historisch.
 
-Zaterdag 23 mei:
+## Zaterdag
 Overdag:
 Overdag hadden we de traditionele wandeltocht op de Posbank.
 Avond:
 Wim en Marlies hebben ons in de avond verwend met een heerlijk chinees buffet aan vanwege hun 2x50 = 100 jaar samen. Dat was smullen.......
 Zelfs minister-president JP Balkenende kwam nog even op bezoek. Wat een eer! (He dat paarse jasje hadden we toch ook al op de donderdagavond gezien?!)
 
-Zondag 24 mei:
+## Zondag
 Inpakken, opruimen, afscheid nemen.
 Het was zeker dit jaar weer een fantastisch long-weekend. Jong en oud hebben zich prima vermaakt.
 Op naar 11 maal Ulepas.....
