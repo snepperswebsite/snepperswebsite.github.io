@@ -1,242 +1,262 @@
 ---
-layout: photopage
-title: "2011: Thema Disco Jaren '70 "
+layout: photopage_thumb
+title: "Ulenpas 2011: Disco Jaren '70"
 external-url:
 categories: Weekenden
 visible: 1
 images:
-
-  - image_path: /assets/w2011/DSC02991.JPG
-    title: DSC02991
-    description: "Dsc02991"
-  - image_path: /assets/w2011/op-de-slaapzaal.jpg
-    title: op-de-slaapzaal
-    description: "Op de slaapzaal"
-  - image_path: /assets/w2011/IMG_0943.JPG
-    title: IMG_0943
-    description: "Img 0943"
-
-
-  - image_path: /assets/w2011/maxima-en-mr-romanticus.jpg
-    title: maxima-en-mr-romanticus
-    description: "Maxima en mr romanticus"
-  - image_path: /assets/w2011/IMG_1092.jpg
-    title: IMG_1092
-    description: "Img 1092"
-  - image_path: /assets/w2011/DSC02584.JPG
-    title: DSC02584
-    description: "Dsc02584"
-
-
-  - image_path: /assets/w2011/IMG_0732.JPG
-    title: IMG_0732
-    description: "Img 0732"
-  - image_path: /assets/w2011/DSC02595.JPG
-    title: DSC02595
-    description: "Dsc02595"
-  - image_path: /assets/w2011/DSC02969.JPG
-    title: DSC02969
-    description: "Dsc02969"
-
-
-  - image_path: /assets/w2011/DSC03046.jpg
-    title: DSC03046
-    description: "Dsc03046"
-  - image_path: /assets/w2011/DSC02793.JPG
-    title: DSC02793
-    description: "Dsc02793"
-  - image_path: /assets/w2011/meisjes-van.jpg
-    title: meisjes-van
-    description: "Meisjes van"
-
-
-  - image_path: /assets/w2011/DSC02862.JPG
-    title: DSC02862
-    description: "Dsc02862"
-  - image_path: /assets/w2011/kaarten.jpg
-    title: kaarten
-    description: "Kaarten"
-  - image_path: /assets/w2011/DSC02996.JPG
-    title: DSC02996
-    description: "Dsc02996"
-
-
-  - image_path: /assets/w2011/IMG_0848.JPG
-    title: IMG_0848
-    description: "Img 0848"
-  - image_path: /assets/w2011/DSC02559.JPG
-    title: DSC02559
-    description: "Dsc02559"
-  - image_path: /assets/w2011/DSC02627.JPG
-    title: DSC02627
-    description: "Dsc02627"
-
-
-  - image_path: /assets/w2011/IMG_0643.JPG
-    title: IMG_0643
-    description: "Img 0643"
-  - image_path: /assets/w2011/DSC02926.JPG
-    title: DSC02926
-    description: "Dsc02926"
-  - image_path: /assets/w2011/DSC02864.JPG
-    title: DSC02864
-    description: "Dsc02864"
-
-
-  - image_path: /assets/w2011/IMG_0697.JPG
-    title: IMG_0697
-    description: "Img 0697"
-  - image_path: /assets/w2011/ouders-aan-de-wandel.jpg
-    title: ouders-aan-de-wandel
-    description: "Ouders aan de wandel"
-  - image_path: /assets/w2011/DSC02772.JPG
-    title: DSC02772
-    description: "Dsc02772"
-
-
-  - image_path: /assets/w2011/op-t-terras.jpg
-    title: op-t-terras
-    description: "Op t terras"
-  - image_path: /assets/w2011/IMG_0712.JPG
-    title: IMG_0712
-    description: "Img 0712"
-  - image_path: /assets/w2011/petatten-schillen.jpg
-    title: petatten-schillen
-    description: "Petatten schillen"
-
-
-  - image_path: /assets/w2011/DSC03044.JPG
-    title: DSC03044
-    description: "Dsc03044"
-  - image_path: /assets/w2011/DSC02594.JPG
-    title: DSC02594
-    description: "Dsc02594"
-  - image_path: /assets/w2011/DSC02795.JPG
-    title: DSC02795
-    description: "Dsc02795"
-
-
-  - image_path: /assets/w2011/jeugd-in-t-loo.jpg
-    title: jeugd-in-t-loo
-    description: "Jeugd in t loo"
-  - image_path: /assets/w2011/opderommelmarkt.jpg
-    title: opderommelmarkt
-    description: "Opderommelmarkt"
-  - image_path: /assets/w2011/barkeepers.jpg
-    title: barkeepers
-    description: "Barkeepers"
-
-
-  - image_path: /assets/w2011/DSC02686.JPG
-    title: DSC02686
-    description: "Dsc02686"
-  - image_path: /assets/w2011/t-loo-groepsfoto.jpg
-    title: t-loo-groepsfoto
-    description: "T loo groepsfoto"
-  - image_path: /assets/w2011/DSC02590.jpg
-    title: DSC02590
-    description: "Dsc02590"
-
-
-  - image_path: /assets/w2011/disco-geel.jpg
-    title: disco-geel
-    description: "Disco geel"
-  - image_path: /assets/w2011/DSC02784.JPG
-    title: DSC02784
-    description: "Dsc02784"
-  - image_path: /assets/w2011/IMGP2818.JPG
-    title: IMGP2818
-    description: "Imgp2818"
-
-
-  - image_path: /assets/w2011/IMG_0690.JPG
-    title: IMG_0690
-    description: "Img 0690"
-  - image_path: /assets/w2011/DSC02680.JPG
-    title: DSC02680
-    description: "Dsc02680"
-  - image_path: /assets/w2011/DSC03002.JPG
-    title: DSC03002
-    description: "Dsc03002"
-
-
-  - image_path: /assets/w2011/DSC02817.JPG
-    title: DSC02817
-    description: "Dsc02817"
-  - image_path: /assets/w2011/DSC02805.JPG
-    title: DSC02805
-    description: "Dsc02805"
-  - image_path: /assets/w2011/IMG_1060.JPG
-    title: IMG_1060
-    description: "Img 1060"
-
-
-  - image_path: /assets/w2011/IMG_1014.jpg
-    title: IMG_1014
-    description: "Img 1014"
-  - image_path: /assets/w2011/bbq-in-tuin2.jpg
-    title: bbq-in-tuin2
-    description: "Bbq in tuin2"
-  - image_path: /assets/w2011/IMG_1136.JPG
-    title: IMG_1136
-    description: "Img 1136"
-
-
-  - image_path: /assets/w2011/bbq-in-tuin1.jpg
-    title: bbq-in-tuin1
-    description: "Bbq in tuin1"
-  - image_path: /assets/w2011/disco-winnaars.jpg
-    title: disco-winnaars
-    description: "Disco winnaars"
-  - image_path: /assets/w2011/DSC02798.jpg
-    title: DSC02798
-    description: "Dsc02798"
-
-
-  - image_path: /assets/w2011/DSC03020.JPG
-    title: DSC03020
-    description: "Dsc03020"
-  - image_path: /assets/w2011/IMG_1152.jpg
-    title: IMG_1152
-    description: "Img 1152"
-  - image_path: /assets/w2011/IMG_0727.JPG
-    title: IMG_0727
-    description: "Img 0727"
-
-
-  - image_path: /assets/w2011/DSC02794.JPG
-    title: DSC02794
-    description: "Dsc02794"
-  - image_path: /assets/w2011/IMG_0986.JPG
-    title: IMG_0986
-    description: "Img 0986"
-  - image_path: /assets/w2011/IMG_0645.JPG
-    title: IMG_0645
-    description: "Img 0645"
-
-
-  - image_path: /assets/w2011/bbq-meisjes.jpg
-    title: bbq-meisjes
-    description: "Bbq meisjes"
-  - image_path: /assets/w2011/DSC02781.jpg
-    title: DSC02781
-    description: "Dsc02781"
-  - image_path: /assets/w2011/disco.jpg
-    title: disco
-    description: "Disco"
-
-
   - image_path: /assets/w2011/bbq-in-tuin3.jpg
+    thumb_path: /assets/w2011/thumbs/bbq-in-tuin3.jpg
     title: bbq-in-tuin3
-    description: "Bbq in tuin3"
+    description: "bbq-in-tuin3"
+  - image_path: /assets/w2011/IMG_1136.JPG
+    thumb_path: /assets/w2011/thumbs/IMG_1136.JPG
+    title: IMG_1136
+    description: ""
+  - image_path: /assets/w2011/ouders-aan-de-wandel.jpg
+    thumb_path: /assets/w2011/thumbs/ouders-aan-de-wandel.jpg
+    title: ouders-aan-de-wandel
+    description: "ouders-aan-de-wandel"
+  - image_path: /assets/w2011/DSC02805.JPG
+    thumb_path: /assets/w2011/thumbs/DSC02805.JPG
+    title: DSC02805
+    description: ""
+  - image_path: /assets/w2011/DSC02794.JPG
+    thumb_path: /assets/w2011/thumbs/DSC02794.JPG
+    title: DSC02794
+    description: ""
+  - image_path: /assets/w2011/DSC02584.JPG
+    thumb_path: /assets/w2011/thumbs/DSC02584.JPG
+    title: DSC02584
+    description: ""
+  - image_path: /assets/w2011/bbq-in-tuin2.jpg
+    thumb_path: /assets/w2011/thumbs/bbq-in-tuin2.jpg
+    title: bbq-in-tuin2
+    description: "bbq-in-tuin2"
+  - image_path: /assets/w2011/opderommelmarkt.jpg
+    thumb_path: /assets/w2011/thumbs/opderommelmarkt.jpg
+    title: opderommelmarkt
+    description: "opderommelmarkt"
+  - image_path: /assets/w2011/DSC02817.JPG
+    thumb_path: /assets/w2011/thumbs/DSC02817.JPG
+    title: DSC02817
+    description: ""
+  - image_path: /assets/w2011/DSC02559.JPG
+    thumb_path: /assets/w2011/thumbs/DSC02559.JPG
+    title: DSC02559
+    description: ""
+  - image_path: /assets/w2011/DSC02969.JPG
+    thumb_path: /assets/w2011/thumbs/DSC02969.JPG
+    title: DSC02969
+    description: ""
+  - image_path: /assets/w2011/DSC02862.JPG
+    thumb_path: /assets/w2011/thumbs/DSC02862.JPG
+    title: DSC02862
+    description: ""
+  - image_path: /assets/w2011/DSC02926.JPG
+    thumb_path: /assets/w2011/thumbs/DSC02926.JPG
+    title: DSC02926
+    description: ""
+  - image_path: /assets/w2011/DSC02686.JPG
+    thumb_path: /assets/w2011/thumbs/DSC02686.JPG
+    title: DSC02686
+    description: ""
+  - image_path: /assets/w2011/DSC03002.JPG
+    thumb_path: /assets/w2011/thumbs/DSC03002.JPG
+    title: DSC03002
+    description: ""
+  - image_path: /assets/w2011/DSC02864.JPG
+    thumb_path: /assets/w2011/thumbs/DSC02864.JPG
+    title: DSC02864
+    description: ""
+  - image_path: /assets/w2011/DSC02680.JPG
+    thumb_path: /assets/w2011/thumbs/DSC02680.JPG
+    title: DSC02680
+    description: ""
+  - image_path: /assets/w2011/DSC03020.JPG
+    thumb_path: /assets/w2011/thumbs/DSC03020.JPG
+    title: DSC03020
+    description: ""
+  - image_path: /assets/w2011/DSC02772.JPG
+    thumb_path: /assets/w2011/thumbs/DSC02772.JPG
+    title: DSC02772
+    description: ""
+  - image_path: /assets/w2011/DSC02996.JPG
+    thumb_path: /assets/w2011/thumbs/DSC02996.JPG
+    title: DSC02996
+    description: ""
+  - image_path: /assets/w2011/DSC03044.JPG
+    thumb_path: /assets/w2011/thumbs/DSC03044.JPG
+    title: DSC03044
+    description: ""
+  - image_path: /assets/w2011/DSC02795.JPG
+    thumb_path: /assets/w2011/thumbs/DSC02795.JPG
+    title: DSC02795
+    description: ""
+  - image_path: /assets/w2011/barkeepers.jpg
+    thumb_path: /assets/w2011/thumbs/barkeepers.jpg
+    title: barkeepers
+    description: "barkeepers"
+  - image_path: /assets/w2011/DSC02594.JPG
+    thumb_path: /assets/w2011/thumbs/DSC02594.JPG
+    title: DSC02594
+    description: ""
+  - image_path: /assets/w2011/DSC02627.JPG
+    thumb_path: /assets/w2011/thumbs/DSC02627.JPG
+    title: DSC02627
+    description: ""
+  - image_path: /assets/w2011/DSC02793.JPG
+    thumb_path: /assets/w2011/thumbs/DSC02793.JPG
+    title: DSC02793
+    description: ""
+  - image_path: /assets/w2011/DSC02595.JPG
+    thumb_path: /assets/w2011/thumbs/DSC02595.JPG
+    title: DSC02595
+    description: ""
+  - image_path: /assets/w2011/DSC02784.JPG
+    thumb_path: /assets/w2011/thumbs/DSC02784.JPG
+    title: DSC02784
+    description: ""
+  - image_path: /assets/w2011/bbq-in-tuin1.jpg
+    thumb_path: /assets/w2011/thumbs/bbq-in-tuin1.jpg
+    title: bbq-in-tuin1
+    description: "bbq-in-tuin1"
+  - image_path: /assets/w2011/DSC02991.JPG
+    thumb_path: /assets/w2011/thumbs/DSC02991.JPG
+    title: DSC02991
+    description: ""
+  - image_path: /assets/w2011/disco-winnaars.jpg
+    thumb_path: /assets/w2011/thumbs/disco-winnaars.jpg
+    title: disco-winnaars
+    description: "disco-winnaars"
+  - image_path: /assets/w2011/meisjes-van.jpg
+    thumb_path: /assets/w2011/thumbs/meisjes-van.jpg
+    title: meisjes-van
+    description: "meisjes-van"
+  - image_path: /assets/w2011/bbq-meisjes.jpg
+    thumb_path: /assets/w2011/thumbs/bbq-meisjes.jpg
+    title: bbq-meisjes
+    description: "bbq-meisjes"
+  - image_path: /assets/w2011/IMG_0690.JPG
+    thumb_path: /assets/w2011/thumbs/IMG_0690.JPG
+    title: IMG_0690
+    description: ""
+  - image_path: /assets/w2011/disco.jpg
+    thumb_path: /assets/w2011/thumbs/disco.jpg
+    title: disco
+    description: "disco"
   - image_path: /assets/w2011/IMG_0694.JPG
+    thumb_path: /assets/w2011/thumbs/IMG_0694.JPG
     title: IMG_0694
-    description: "Img 0694"
+    description: ""
+  - image_path: /assets/w2011/IMGP2818.JPG
+    thumb_path: /assets/w2011/thumbs/IMGP2818.JPG
+    title: IMGP2818
+    description: ""
+  - image_path: /assets/w2011/petatten-schillen.jpg
+    thumb_path: /assets/w2011/thumbs/petatten-schillen.jpg
+    title: petatten-schillen
+    description: "petatten-schillen"
+  - image_path: /assets/w2011/op-de-slaapzaal.jpg
+    thumb_path: /assets/w2011/thumbs/op-de-slaapzaal.jpg
+    title: op-de-slaapzaal
+    description: "op-de-slaapzaal"
+  - image_path: /assets/w2011/IMG_0643.JPG
+    thumb_path: /assets/w2011/thumbs/IMG_0643.JPG
+    title: IMG_0643
+    description: ""
+  - image_path: /assets/w2011/IMG_0697.JPG
+    thumb_path: /assets/w2011/thumbs/IMG_0697.JPG
+    title: IMG_0697
+    description: ""
+  - image_path: /assets/w2011/IMG_0732.JPG
+    thumb_path: /assets/w2011/thumbs/IMG_0732.JPG
+    title: IMG_0732
+    description: ""
+  - image_path: /assets/w2011/IMG_0712.JPG
+    thumb_path: /assets/w2011/thumbs/IMG_0712.JPG
+    title: IMG_0712
+    description: ""
+  - image_path: /assets/w2011/jeugd-in-t-loo.jpg
+    thumb_path: /assets/w2011/thumbs/jeugd-in-t-loo.jpg
+    title: jeugd-in-t-loo
+    description: "jeugd-in-t-loo"
+  - image_path: /assets/w2011/op-t-terras.jpg
+    thumb_path: /assets/w2011/thumbs/op-t-terras.jpg
+    title: op-t-terras
+    description: "op-t-terras"
+  - image_path: /assets/w2011/IMG_0986.JPG
+    thumb_path: /assets/w2011/thumbs/IMG_0986.JPG
+    title: IMG_0986
+    description: ""
+  - image_path: /assets/w2011/IMG_1060.JPG
+    thumb_path: /assets/w2011/thumbs/IMG_1060.JPG
+    title: IMG_1060
+    description: ""
+  - image_path: /assets/w2011/IMG_0727.JPG
+    thumb_path: /assets/w2011/thumbs/IMG_0727.JPG
+    title: IMG_0727
+    description: ""
+  - image_path: /assets/w2011/IMG_0645.JPG
+    thumb_path: /assets/w2011/thumbs/IMG_0645.JPG
+    title: IMG_0645
+    description: ""
+  - image_path: /assets/w2011/IMG_0943.JPG
+    thumb_path: /assets/w2011/thumbs/IMG_0943.JPG
+    title: IMG_0943
+    description: ""
+  - image_path: /assets/w2011/t-loo-groepsfoto.jpg
+    thumb_path: /assets/w2011/thumbs/t-loo-groepsfoto.jpg
+    title: t-loo-groepsfoto
+    description: "t-loo-groepsfoto"
+  - image_path: /assets/w2011/IMG_0848.JPG
+    thumb_path: /assets/w2011/thumbs/IMG_0848.JPG
+    title: IMG_0848
+    description: ""
   - image_path: /assets/w2011/stoeipoezen.jpg
+    thumb_path: /assets/w2011/thumbs/stoeipoezen.jpg
     title: stoeipoezen
-    description: "Stoeipoezen"
-
-
+    description: "stoeipoezen"
+  - image_path: /assets/w2011/maxima-en-mr-romanticus.jpg
+    thumb_path: /assets/w2011/thumbs/maxima-en-mr-romanticus.jpg
+    title: maxima-en-mr-romanticus
+    description: "maxima-en-mr-romanticus"
+  - image_path: /assets/w2011/IMG_1092.jpg
+    thumb_path: /assets/w2011/thumbs/IMG_1092.jpg
+    title: IMG_1092
+    description: ""
+  - image_path: /assets/w2011/IMG_1014.jpg
+    thumb_path: /assets/w2011/thumbs/IMG_1014.jpg
+    title: IMG_1014
+    description: ""
+  - image_path: /assets/w2011/IMG_1152.jpg
+    thumb_path: /assets/w2011/thumbs/IMG_1152.jpg
+    title: IMG_1152
+    description: ""
+  - image_path: /assets/w2011/kaarten.jpg
+    thumb_path: /assets/w2011/thumbs/kaarten.jpg
+    title: kaarten
+    description: "kaarten"
+  - image_path: /assets/w2011/DSC03046.jpg
+    thumb_path: /assets/w2011/thumbs/DSC03046.jpg
+    title: DSC03046
+    description: ""
+  - image_path: /assets/w2011/DSC02590.jpg
+    thumb_path: /assets/w2011/thumbs/DSC02590.jpg
+    title: DSC02590
+    description: ""
+  - image_path: /assets/w2011/DSC02798.jpg
+    thumb_path: /assets/w2011/thumbs/DSC02798.jpg
+    title: DSC02798
+    description: ""
+  - image_path: /assets/w2011/DSC02781.jpg
+    thumb_path: /assets/w2011/thumbs/DSC02781.jpg
+    title: DSC02781
+    description: ""
+  - image_path: /assets/w2011/disco-geel.jpg
+    thumb_path: /assets/w2011/thumbs/disco-geel.jpg
+    title: disco-geel
+    description: "disco-geel"
 ---
 
 Van tevoren waren al diverse emails uitgewisseld over thema, activiteiten. Iedereen had er veel zin in! Loes en Freek kwamen op het idee om een jaren '70 party te houden, Marianne Timmermans nam het initiatief om een liedjes-raden quiz op te zetten, en verder waren er wat aanvullende ideeen.
@@ -273,3 +293,4 @@ Het was zo warm dat (dit keer niet de mussen van t dak vielen), maar een decenni
 
 ## Zondag
 Met een KNAL van het onweer werden we wakker. Eindelijk ook regen. Het geweldige Ulenpas 2011 weekend zat erop, behalve dan nog een stukje verplichting: opruimen, inpakken, stofzuigen, poetsen, boenen en schrobben... Met weemoed namen we afscheid van elkaar.
+
