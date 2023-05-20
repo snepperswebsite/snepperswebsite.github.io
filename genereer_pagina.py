@@ -10,8 +10,9 @@ Instructies:
 """
 
 ###
-JAAR = "2023"
-POSTNAAM = f"{JAAR}-05-17-weekend"
+JAAR = "2009"
+THEMA = "Tienjarig Jubileum"
+POSTNAAM = f"{JAAR}-05-10-weekend"
 BRONPAD = f"assets/w{JAAR}"
 UITVOERBESTAND = f"_posts/{POSTNAAM}.markdown"
 
@@ -31,7 +32,7 @@ def getar(filepath):
 header = f"""\
 ---
 layout: photopage_thumb
-title: "Ulenpas {JAAR}"
+title: "Ulenpas {JAAR}{(f': {THEMA}' if THEMA else '')}"
 external-url:
 categories: Weekenden
 visible: 1

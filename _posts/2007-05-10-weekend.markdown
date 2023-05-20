@@ -1,37 +1,87 @@
 ---
-layout: photopage
-title: "2007: Moordspel"
+layout: photopage_thumb
+title: "Ulenpas 2007: Moordspel"
 external-url:
 categories: Weekenden
 visible: 1
 images:
-  - image_path: /assets/Echte-Familie-Flodder.jpg
-    title: Hier ons voorbeeld van de TV
-    description: "Het geweldige vakantie-oord: De Uilepas"
-  - image_path: /assets/w2000/boot.jpg
-    title: Meiden in boot
-    description: "Landgoedimpressie: alles OK!"
-  - image_path: /assets/w2000/groepsfoto.jpg
-    title: Groepsfoto
-    description: "Het Snepperweekend in 2000 met thema  Olympische Spelen: Frankrijk, Columbia, Belgie, Schotland en Mexico waren vertegenwoordigd." 
-  - image_path: /assets/w2000/touwtrekken.jpg
-    title: Touwtje trekken
-    description: "Een van de SnepperSpelen waren: touwtrekken"
-  - image_path: /assets/w2000/schotten.jpg
-    title: Schotse Mat
-    description: "Er moet natuurlijk een persoon het overzicht hebben."
-  - image_path: /assets/w2000/winnaars.jpg
-    title: De winnende ploeg
-    description: "En de winnaars van de Olympische Snepper Spelen zijn: "
+  - image_path: /assets/w2007/Enkele meiden op t veer.jpg
+    thumb_path: /assets/w2007/thumbs/Enkele meiden op t veer.jpg
+    title: Enkele meiden op t veer
+    description: "Enkele meiden op t veer"
+  - image_path: /assets/w2007/Groepsfoto moordspel 2.jpg
+    thumb_path: /assets/w2007/thumbs/Groepsfoto moordspel 2.jpg
+    title: Groepsfoto moordspel 2
+    description: "Groepsfoto moordspel 2"
+  - image_path: /assets/w2007/Groepsfoto bij het moordspel.jpg
+    thumb_path: /assets/w2007/thumbs/Groepsfoto bij het moordspel.jpg
+    title: Groepsfoto bij het moordspel
+    description: "Groepsfoto bij het moordspel"
+  - image_path: /assets/w2007/Friends Amerikanen.jpg
+    thumb_path: /assets/w2007/thumbs/Friends Amerikanen.jpg
+    title: Friends Amerikanen
+    description: "Friends Amerikanen"
+  - image_path: /assets/w2007/Freek en Mathijs achter de bar.jpg
+    thumb_path: /assets/w2007/thumbs/Freek en Mathijs achter de bar.jpg
+    title: Freek en Mathijs achter de bar
+    description: "Freek en Mathijs achter de bar"
+  - image_path: /assets/w2007/Freek en Mathijs nog steeds achter de bar.jpg
+    thumb_path: /assets/w2007/thumbs/Freek en Mathijs nog steeds achter de bar.jpg
+    title: Freek en Mathijs nog steeds achter de bar
+    description: "Freek en Mathijs nog steeds achter de bar"
+  - image_path: /assets/w2007/Groepsfoto 2.jpg
+    thumb_path: /assets/w2007/thumbs/Groepsfoto 2.jpg
+    title: Groepsfoto 2
+    description: "Groepsfoto 2"
+  - image_path: /assets/w2007/Familie Nerds.jpg
+    thumb_path: /assets/w2007/thumbs/Familie Nerds.jpg
+    title: Familie Nerds
+    description: "Familie Nerds"
+  - image_path: /assets/w2007/Clan Russen.jpg
+    thumb_path: /assets/w2007/thumbs/Clan Russen.jpg
+    title: Clan Russen
+    description: "Clan Russen"
+  - image_path: /assets/w2007/Stichting Kunstbezit Nederland.jpg
+    thumb_path: /assets/w2007/thumbs/Stichting Kunstbezit Nederland.jpg
+    title: Stichting Kunstbezit Nederland
+    description: "Stichting Kunstbezit Nederland"
+  - image_path: /assets/w2007/Angst!!!.jpg
+    thumb_path: /assets/w2007/thumbs/Angst!!!.jpg
+    title: Angst!!!
+    description: "Angst!!!"
+  - image_path: /assets/w2007/Vermoord!!!.jpg
+    thumb_path: /assets/w2007/thumbs/Vermoord!!!.jpg
+    title: Vermoord!!!
+    description: "Vermoord!!!"
+  - image_path: /assets/w2007/De mannen op de braderie.jpg
+    thumb_path: /assets/w2007/thumbs/De mannen op de braderie.jpg
+    title: De mannen op de braderie
+    description: "De mannen op de braderie"
+  - image_path: /assets/w2007/Clan Rijken.jpg
+    thumb_path: /assets/w2007/thumbs/Clan Rijken.jpg
+    title: Clan Rijken
+    description: "Clan Rijken"
+  - image_path: /assets/w2007/Familie Bedroefde Weduwnaar.jpg
+    thumb_path: /assets/w2007/thumbs/Familie Bedroefde Weduwnaar.jpg
+    title: Familie Bedroefde Weduwnaar
+    description: "Familie Bedroefde Weduwnaar"
+  - image_path: /assets/w2007/Groepsfoto 1.jpg
+    thumb_path: /assets/w2007/thumbs/Groepsfoto 1.jpg
+    title: Groepsfoto 1
+    description: "Groepsfoto 1"
 ---
 
 Ook dit jaar hadden we met Hemelvaart het Snepper-weekend in de Ulepas, in Hoogkeppel bij Doesburg.
 Op de woensdagavond druppelden de families binnen.
 
-Hemelvaarts-donderdag was gereserveerd voor een bezoekje aan de jaarlijkse rommelmarkt in Hoog-Keppel. Dit was feest voor FreekG en Mathijs want die hadden voor weinig geld heeeeel veeeeel apparatuur gekocht. En die deed het ook nog!
-'s avonds was het moordspel. Mat had een mooi verhaal ervan gemaakt en de teams hadden zich passend verkleed, zie de leuke foto-impressie van het moordspel. En "The winner was" ......De Nerds (hoe kan het ook anders).
+Hemelvaartsdonderdag was gereserveerd voor een bezoekje aan de jaarlijkse rommelmarkt in Hoog-Keppel. 
+Dit was feest voor FreekG en Mathijs want die hadden voor weinig geld heeeeel veeeeel apparatuur gekocht. En die deed het ook nog!
+
+'s Avonds was het moordspel. Mat had een mooi verhaal ervan gemaakt. En the winner izzzz ......De Nerds (hoe kan het ook anders).
 
 De vrijdag werd besteed aan een wandeling en wat fitnes.
+
 Zaterdag gingen we naar Deventer. Een mooie stad om te bezoeken.
+
 De zondagmorgen: inpakken, opruimen en poetsen.
 

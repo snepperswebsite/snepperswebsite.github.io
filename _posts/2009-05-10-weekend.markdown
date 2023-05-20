@@ -1,77 +1,82 @@
 ---
-layout: photopage
-title: "2009: 10 jaar Ulepas !!! "
+layout: photopage_thumb
+title: "Ulenpas 2009: Tienjarig Jubileum"
 external-url:
 categories: Weekenden
 visible: 1
 images:
-
-  - image_path: /assets/w2009/IMG_5087.jpg
-    title: IMG_5087
-    description: "Img 5087"
-  - image_path: /assets/w2009/IMG_0884.JPG
-    title: IMG_0884
-    description: "Img 0884"
-  - image_path: /assets/w2009/TIENjaaUlepas.jpg
-    title: Tien jaar Ulenpas
+  - image_path: /assets/w2009/Tien jaar Ulenpas!.jpg
+    thumb_path: /assets/w2009/thumbs/Tien jaar Ulenpas!.jpg
+    title: Tien jaar Ulenpas!
     description: "Tien jaar Ulenpas!"
-
-
-  - image_path: /assets/w2009/IMG_1054.JPG
-    title: IMG_1054
-    description: "Img 1054"
-  - image_path: /assets/w2009/IMG_1230.JPG
-    title: IMG_1230
-    description: "Img 1230"
-  - image_path: /assets/w2009/IMG_5256.jpg
-    title: IMG_5256
-    description: "Img 5256"
-
-
-  - image_path: /assets/w2009/IMG_4909.jpg
-    title: IMG_4909
-    description: "Img 4909"
-  - image_path: /assets/w2009/IMG_1236.JPG
-    title: IMG_1236
-    description: "Img 1236"
-  - image_path: /assets/w2009/IMG_1238.JPG
-    title: IMG_1238
-    description: "Img 1238"
-
-
-  - image_path: /assets/w2009/thriller-op-dansvloer.jpg
-    title: thriller-op-dansvloer
-    description: "Thriller op dansvloer"
-  - image_path: /assets/w2009/IMG_5311.jpg
-    title: IMG_5311
-    description: "Img 5311"
-  - image_path: /assets/w2009/IMG_1243.JPG
-    title: IMG_1243
-    description: "Img 1243"
-
-
+  - image_path: /assets/w2009/Thriller op de dansvloer.jpg
+    thumb_path: /assets/w2009/thumbs/Thriller op de dansvloer.jpg
+    title: Thriller op de dansvloer
+    description: "Thriller op de dansvloer"
   - image_path: /assets/w2009/groepsfoto-bekende-mensen-1.jpg
+    thumb_path: /assets/w2009/thumbs/groepsfoto-bekende-mensen-1.jpg
     title: groepsfoto-bekende-mensen-1
-    description: "Groepsfoto bekende mensen 1"
-  - image_path: /assets/w2009/IMG_5057.jpg
-    title: IMG_5057
-    description: "Img 5057"
-  - image_path: /assets/w2009/IMG_0872.JPG
-    title: IMG_0872
-    description: "Img 0872"
-
-
-  - image_path: /assets/w2009/IMG_1245.JPG
-    title: IMG_1245
-    description: "Img 1245"
-  - image_path: /assets/w2009/IMG_1232.JPG
-    title: IMG_1232
-    description: "Img 1232"
+    description: "groepsfoto bekende mensen 1"
+  - image_path: /assets/w2009/Meiden op het bootje.jpg
+    thumb_path: /assets/w2009/thumbs/Meiden op het bootje.jpg
+    title: Meiden op het bootje
+    description: "Meiden op het bootje"
+  - image_path: /assets/w2009/Groepsfoto Jeugd 2.JPG
+    thumb_path: /assets/w2009/thumbs/Groepsfoto Jeugd 2.JPG
+    title: Groepsfoto Jeugd 2
+    description: "Groepsfoto Jeugd 2"
+  - image_path: /assets/w2009/Op weg naar de rommelmarkt in Hoog-Keppel.jpg
+    thumb_path: /assets/w2009/thumbs/Op weg naar de rommelmarkt in Hoog-Keppel.jpg
+    title: Op weg naar de rommelmarkt in Hoog-Keppel
+    description: "Op weg naar de rommelmarkt in Hoog Keppel"
+  - image_path: /assets/w2009/Backstreet Boys!!!.JPG
+    thumb_path: /assets/w2009/thumbs/Backstreet Boys!!!.JPG
+    title: Backstreet Boys!!!
+    description: "Backstreet Boys!!!"
+  - image_path: /assets/w2009/Chaos.JPG
+    thumb_path: /assets/w2009/thumbs/Chaos.JPG
+    title: Chaos
+    description: "Chaos"
   - image_path: /assets/w2009/groepsfoto-bekende-mensen-2.jpg
+    thumb_path: /assets/w2009/thumbs/groepsfoto-bekende-mensen-2.jpg
     title: groepsfoto-bekende-mensen-2
-    description: "Groepsfoto bekende mensen 2"
-
-
+    description: "groepsfoto bekende mensen 2"
+  - image_path: /assets/w2009/Groepsfoto jeugd.JPG
+    thumb_path: /assets/w2009/thumbs/Groepsfoto jeugd.JPG
+    title: Groepsfoto jeugd
+    description: "Groepsfoto jeugd"
+  - image_path: /assets/w2009/Freek & Stan.JPG
+    thumb_path: /assets/w2009/thumbs/Freek & Stan.JPG
+    title: Freek & Stan
+    description: "Freek & Stan"
+  - image_path: /assets/w2009/Jeugdtaferelen in de woonkamer.JPG
+    thumb_path: /assets/w2009/thumbs/Jeugdtaferelen in de woonkamer.JPG
+    title: Jeugdtaferelen in de woonkamer
+    description: "Jeugdtaferelen in de woonkamer"
+  - image_path: /assets/w2009/Sportman Frits Koopmans.JPG
+    thumb_path: /assets/w2009/thumbs/Sportman Frits Koopmans.JPG
+    title: Sportman Frits Koopmans
+    description: "Sportman Frits Koopmans"
+  - image_path: /assets/w2009/Zwartwitglamour op de brug.jpg
+    thumb_path: /assets/w2009/thumbs/Zwartwitglamour op de brug.jpg
+    title: Zwartwitglamour op de brug
+    description: "Zwartwitglamour op de brug"
+  - image_path: /assets/w2009/Meer jeugdtaferelen, en Jill met de klassieke Nintendo DS.JPG
+    thumb_path: /assets/w2009/thumbs/Meer jeugdtaferelen, en Jill met de klassieke Nintendo DS.JPG
+    title: Meer jeugdtaferelen, en Jill met de klassieke Nintendo DS
+    description: "Meer jeugdtaferelen, en Jill met de klassieke Nintendo DS"
+  - image_path: /assets/w2009/De meiden op het trapje.JPG
+    thumb_path: /assets/w2009/thumbs/De meiden op het trapje.JPG
+    title: De meiden op het trapje
+    description: "De meiden op het trapje"
+  - image_path: /assets/w2009/Klaarmaken voor de feestavond.jpg
+    thumb_path: /assets/w2009/thumbs/Klaarmaken voor de feestavond.jpg
+    title: Klaarmaken voor de feestavond
+    description: "Klaarmaken voor de feestavond"
+  - image_path: /assets/w2009/Laura als bekend persoon.jpg
+    thumb_path: /assets/w2009/thumbs/Laura als bekend persoon.jpg
+    title: Laura als bekend persoon
+    description: "Laura als bekend persoon"
 ---
 
 Het was een heel leuk weekend. Er was van alles te beleven.
@@ -108,3 +113,4 @@ Zelfs minister-president JP Balkenende kwam nog even op bezoek. Wat een eer! (He
 Inpakken, opruimen, afscheid nemen.
 Het was zeker dit jaar weer een fantastisch long-weekend. Jong en oud hebben zich prima vermaakt.
 Op naar 11 maal Ulepas.....
+
