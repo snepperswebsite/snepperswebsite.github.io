@@ -10,8 +10,8 @@ Instructies:
 """
 
 ###
-JAAR = "2009"
-THEMA = "Tienjarig Jubileum"
+JAAR = "2010"
+THEMA = "Sneppers de Musical"
 POSTNAAM = f"{JAAR}-05-10-weekend"
 BRONPAD = f"assets/w{JAAR}"
 UITVOERBESTAND = f"_posts/{POSTNAAM}.markdown"
@@ -20,12 +20,15 @@ UITVOERBESTAND = f"_posts/{POSTNAAM}.markdown"
 ###
 import os
 import subprocess
-from PIL import Image
+from PIL import Image, UnidentifiedImageError
 import numpy
 
 def getar(filepath):
-    img = Image.open(filepath)
-    return img.height/img.width
+    try:
+        img = Image.open(filepath)
+        return img.height/img.width
+    except UnidentifiedImageError:
+        return 100
 
 
 ###
@@ -50,8 +53,8 @@ template = template[:-1]
 with open(f"{BRONPAD}/tekst.markdown", "r") as f:
     tekstje = f.read()
 bestanden = list(filter(lambda x: x not in ("thumbs", "tekst.markdown"), os.listdir(BRONPAD)))
-hoogtes = [getar(f"{BRONPAD}/{bestand}") for bestand in bestanden]
-inds = numpy.argsort(hoogtes)  # Rangschik afbeelding naar beeldverhouding, ziet er beter uit.
+beeldverhoudingen = [getar(f"{BRONPAD}/{bestand}") for bestand in bestanden]
+inds = numpy.argsort(beeldverhoudingen)  # Rangschik afbeelding naar beeldverhouding, ziet er beter uit.
 
 print(header, file=open(UITVOERBESTAND, "w"))
 for ib in inds:
@@ -61,7 +64,10 @@ for ib in inds:
     bestandsnaam_geenExtensie = "".join(bestandsnaam_geenExtensie)
     
     beschrijving = bestandsnaam_geenExtensie.replace("_", " ").replace("-", " ")
-    os.system(f"convert '{BRONPAD}/{bestand}' -resize 640x '{BRONPAD}/thumbs/{bestand}'")
+    if beeldverhoudingen[ib] != 100:
+        os.system(f"convert '{BRONPAD}/{bestand}' -resize 640x '{BRONPAD}/thumbs/{bestand}'")
+    else:
+        template += "\n    is_video: true"
     foto = template.replace("BESTANDSNAAM", bestand).replace("TITEL", bestandsnaam_geenExtensie).replace("BESCHRIJVING", beschrijving)
     
     print(foto, file=open(UITVOERBESTAND, "a"))    

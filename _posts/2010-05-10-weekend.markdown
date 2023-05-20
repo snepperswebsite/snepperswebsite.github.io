@@ -1,34 +1,35 @@
 ---
-layout: photopage
-title: "Ulepas 2010: Sneppers de Musical!!!!"
+layout: photopage_thumb
+title: "Ulenpas 2010: Sneppers de Musical"
 external-url:
 categories: Weekenden
 visible: 1
 images:
-
-  - image_path: /assets/w2010/moeders-uitrusten.jpg
-    title: moeders-uitrusten
-    description: "Moeders uitrusten"
-  - image_path: /assets/w2010/de-jongsten.jpg
-    title: de-jongsten
+  - image_path: /assets/w2010/De jongsten.jpg
+    thumb_path: /assets/w2010/thumbs/De jongsten.jpg
+    title: De jongsten
     description: "De jongsten"
-
-
-  - image_path: /assets/w2010/boot-opzij.jpg
-    title: boot-opzij
-    description: "Boot opzij"
-  - image_path: /assets/w2010/filmpie.mpg
-    title: filmpie
-    description: "Filmpie"
+  - image_path: /assets/w2010/Julia en Laura jarig!.jpg
+    thumb_path: /assets/w2010/thumbs/Julia en Laura jarig!.jpg
+    title: Julia en Laura jarig!
+    description: "Julia en Laura jarig!"
+  - image_path: /assets/w2010/De wordt regelmatig schoongemaakt.jpg
+    thumb_path: /assets/w2010/thumbs/De wordt regelmatig schoongemaakt.jpg
+    title: De wordt regelmatig schoongemaakt
+    description: "De wordt regelmatig schoongemaakt"
+  - image_path: /assets/w2010/Even pauzeren in de eetkamer.jpg
+    thumb_path: /assets/w2010/thumbs/Even pauzeren in de eetkamer.jpg
+    title: Even pauzeren in de eetkamer
+    description: "Even pauzeren in de eetkamer"
+  - image_path: /assets/w2010/Moeders rusten uit tijdens de wandeling.jpg
+    thumb_path: /assets/w2010/thumbs/Moeders rusten uit tijdens de wandeling.jpg
+    title: Moeders rusten uit tijdens de wandeling
+    description: "Moeders rusten uit tijdens de wandeling"
+  - image_path: /assets/w2010/Allemaal in de rij!.webm
+    thumb_path: /assets/w2010/thumbs/Allemaal in de rij!.webm
+    title: Allemaal in de rij!
+    description: "Allemaal in de rij!"
     is_video: true
-  - image_path: /assets/w2010/pauze.jpg
-    title: pauze
-    description: "Pauze"
-
-
-  - image_path: /assets/w2010/jenl-jarig.jpg
-    title: jenl-jarig
-    description: "J en L jarig"
 ---
 
 Iedereen verheugt zich al volop op de 11e Ulenpas, het is bijna zover!
@@ -53,10 +54,11 @@ Je krijgt een tekstzin waarmee je moet beginnen en een zin waarmee je eindigt, e
 Deze Musical zal worden afgesloten met het premiere-gala voor de sterren, dus de feestelijke kleding is weer welkom! Of in de verkleedkleren?
 
 ## Vrijdag
-Een door Lotte bedachte activiteit. 'S avonds is er een verrassingsfeestje voor de 3 jarigen: JULIA TINA LAURA...
+Een door Lotte bedachte activiteit. 's Avonds is er een verrassingsfeestje voor de 3 jarigen: JULIA TINA LAURA...
 
 ## Zaterdag
 Overdag traditioneel wandelen op de Posbank. 's Avonds lekker luieren en bijkletsen.
 
 ## Zondag
 Opruimen en afscheid...
+
