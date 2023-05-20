@@ -1,0 +1,91 @@
+---
+layout: photopage_thumb
+title: "Ulenpas 2023"
+external-url:
+categories: Weekenden
+visible: 1
+images:
+  - image_path: /assets/w2023/Voor het eerst in jaren kon de WaterTender 10 weer naar de vijver naviferen.jpeg
+    thumb_path: /assets/w2023/thumbs/Voor het eerst in jaren kon de WaterTender 10 weer naar de vijver naviferen.jpeg
+    title: Voor het eerst in jaren kon de WaterTender 10 weer naar de vijver naviferen
+    description: "Voor het eerst in jaren kon de WaterTender 10 weer naar de vijver naviferen"
+  - image_path: /assets/w2023/Landroeien.jpeg
+    thumb_path: /assets/w2023/thumbs/Landroeien.jpeg
+    title: Landroeien
+    description: "Landroeien"
+  - image_path: /assets/w2023/Loes was overdreven goed met het balzakken (kaarten).jpeg
+    thumb_path: /assets/w2023/thumbs/Loes was overdreven goed met het balzakken (kaarten).jpeg
+    title: Loes was overdreven goed met het balzakken (kaarten)
+    description: "Loes was overdreven goed met het balzakken (kaarten)"
+  - image_path: /assets/w2023/Zelfs de dorre heide was enigszins groen.jpeg
+    thumb_path: /assets/w2023/thumbs/Zelfs de dorre heide was enigszins groen.jpeg
+    title: Zelfs de dorre heide was enigszins groen
+    description: "Zelfs de dorre heide was enigszins groen"
+  - image_path: /assets/w2023/De jongeste Snepperméédjes.jpeg
+    thumb_path: /assets/w2023/thumbs/De jongeste Snepperméédjes.jpeg
+    title: De jongeste Snepperméédjes
+    description: "De jongeste Snepperméédjes"
+  - image_path: /assets/w2023/Dinosaur in de kingerslaapzaal, met karakteristieke groene waas.jpg
+    thumb_path: /assets/w2023/thumbs/Dinosaur in de kingerslaapzaal, met karakteristieke groene waas.jpg
+    title: Dinosaur in de kingerslaapzaal, met karakteristieke groene waas
+    description: "Dinosaur in de kingerslaapzaal, met karakteristieke groene waas"
+  - image_path: /assets/w2023/De kopgroep op de Posbank.jpg
+    thumb_path: /assets/w2023/thumbs/De kopgroep op de Posbank.jpg
+    title: De kopgroep op de Posbank
+    description: "De kopgroep op de Posbank"
+  - image_path: /assets/w2023/Zicht op het huis, zoek de verrassing.jpg
+    thumb_path: /assets/w2023/thumbs/Zicht op het huis, zoek de verrassing.jpg
+    title: Zicht op het huis, zoek de verrassing
+    description: "Zicht op het huis, zoek de verrassing"
+  - image_path: /assets/w2023/De hond van de tuinman.jpg
+    thumb_path: /assets/w2023/thumbs/De hond van de tuinman.jpg
+    title: De hond van de tuinman
+    description: "De hond van de tuinman"
+  - image_path: /assets/w2023/Prachtig groene weelde rondom al het vaarwater.jpg
+    thumb_path: /assets/w2023/thumbs/Prachtig groene weelde rondom al het vaarwater.jpg
+    title: Prachtig groene weelde rondom al het vaarwater
+    description: "Prachtig groene weelde rondom al het vaarwater"
+  - image_path: /assets/w2023/De aardappelen zijn geschild.jpg
+    thumb_path: /assets/w2023/thumbs/De aardappelen zijn geschild.jpg
+    title: De aardappelen zijn geschild
+    description: "De aardappelen zijn geschild"
+  - image_path: /assets/w2023/Frits in dromenland.jpg
+    thumb_path: /assets/w2023/thumbs/Frits in dromenland.jpg
+    title: Frits in dromenland
+    description: "Frits in dromenland"
+  - image_path: /assets/w2023/Mathijs in de Space Runner met rommelmarktaanwinsten.jpg
+    thumb_path: /assets/w2023/thumbs/Mathijs in de Space Runner met rommelmarktaanwinsten.jpg
+    title: Mathijs in de Space Runner met rommelmarktaanwinsten
+    description: "Mathijs in de Space Runner met rommelmarktaanwinsten"
+  - image_path: /assets/w2023/Marlies aan het schillen.jpeg
+    thumb_path: /assets/w2023/thumbs/Marlies aan het schillen.jpeg
+    title: Marlies aan het schillen
+    description: "Marlies aan het schillen"
+  - image_path: /assets/w2023/Marjan en Marij zijn weer druk bezig in de keuken.jpeg
+    thumb_path: /assets/w2023/thumbs/Marjan en Marij zijn weer druk bezig in de keuken.jpeg
+    title: Marjan en Marij zijn weer druk bezig in de keuken
+    description: "Marjan en Marij zijn weer druk bezig in de keuken"
+  - image_path: /assets/w2023/Fanatiekeling Wim bij terugkomst van een van zijn hardloopacties.jpeg
+    thumb_path: /assets/w2023/thumbs/Fanatiekeling Wim bij terugkomst van een van zijn hardloopacties.jpeg
+    title: Fanatiekeling Wim bij terugkomst van een van zijn hardloopacties
+    description: "Fanatiekeling Wim bij terugkomst van een van zijn hardloopacties"
+  - image_path: /assets/w2023/Na de lange roeitocht naar de voorvijver werd besloten de gemakkelijke weg terug te nemen.jpeg
+    thumb_path: /assets/w2023/thumbs/Na de lange roeitocht naar de voorvijver werd besloten de gemakkelijke weg terug te nemen.jpeg
+    title: Na de lange roeitocht naar de voorvijver werd besloten de gemakkelijke weg terug te nemen
+    description: "Na de lange roeitocht naar de voorvijver werd besloten de gemakkelijke weg terug te nemen"
+  - image_path: /assets/w2023/Het bootje kwam weer veilig terug waar hij hoort.jpeg
+    thumb_path: /assets/w2023/thumbs/Het bootje kwam weer veilig terug waar hij hoort.jpeg
+    title: Het bootje kwam weer veilig terug waar hij hoort
+    description: "Het bootje kwam weer veilig terug waar hij hoort"
+  - image_path: /assets/w2023/Freek en Mathijs in het bootje.jpeg
+    thumb_path: /assets/w2023/thumbs/Freek en Mathijs in het bootje.jpeg
+    title: Freek en Mathijs in het bootje
+    description: "Freek en Mathijs in het bootje"
+---
+
+Voor het eerst in 11 jaar weer eens een Ulenpasupdate op de Snepperwebstek. De tweede jaargang sinds de coronastop was weer prachtig als vanouds. We waren weer met een grote groep, energiek als altijd. Er is 's nachts een poging gedaan tot _Dinosaur_ kijken, er zijn grappen gemaakt over de mythisch geweldige _Space Runner_ en Matt's kappersvoorkeuren zijn grondig geëvalueerd.
+
+De wandeling op de Posbank kon niet ontbreken (hoewel deze dit jaar op vrijdag was!), en ook de friet van Eef Oost was een bekende factor. Tevens zijn er dit jaar opvallend veel dieren gespot: IJsvogels, hazen, reeën en fazanten in aanvulling op de altijd kwetterende vogels en brullende kikkers.
+
+Na jaren speculatie over de aanwezigheid van een heuse schat op het landgoed, zijn dit jaar voor het eerst concrete plannen gemaakt voor de aanschaf van een metaaldetector, zodat deze eindelijk gevonden en opgegraven kan worden. Jill neemt hierin het voortouw.
+

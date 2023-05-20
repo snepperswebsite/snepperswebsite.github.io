@@ -1,44 +1,61 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-"""
-Created on Wed May 26 13:38:42 2021
 
-@author: ostheer
-"""
 
+###
+JAAR = "2023"
+POSTNAAM = f"{JAAR}-05-17-weekend"
+BRONPAD = f"assets/w{JAAR}"
+UITVOERBESTAND = f"_posts/{POSTNAAM}.markdown"
+
+
+###
 import os
+import subprocess
+from PIL import Image
+import numpy
 
-#%%
-bron_pad = "/home/ostheer/Documents/git/snepperswebsite.github.io/assets/w2009"
-jaar = "2009"
-output_bestand = "output.txt"
+def getar(filepath):
+    img = Image.open(filepath)
+    return img.height/img.width
 
-#%%
-template = """  - image_path: /assets/wJAAR/BESTANDSNAAM
+
+###
+header = f"""\
+---
+layout: photopage_thumb
+title: "Ulenpas {JAAR}"
+external-url:
+categories: Weekenden
+visible: 1
+images:"""
+
+template = f"""  - image_path: /assets/w{JAAR}/BESTANDSNAAM
+    thumb_path: /assets/w{JAAR}/thumbs/BESTANDSNAAM
     title: TITEL
     description: "BESCHRIJVING"
 """
 template = template[:-1]
 
-bestanden = os.listdir(bron_pad)
 
-print("images:\n", file=open(output_bestand, "w"))
+###
+with open(f"{BRONPAD}/tekst.markdown", "r") as f:
+    tekstje = f.read()
+bestanden = list(filter(lambda x: x not in ("thumbs", "tekst.markdown"), os.listdir(BRONPAD)))
+hoogtes = [getar(f"{BRONPAD}/{bestand}") for bestand in bestanden]
+inds = numpy.argsort(hoogtes)  # Rangschik afbeelding naar beeldverhouding, ziet er beter uit.
 
-i = 1
-for bestand in bestanden:
+print(header, file=open(UITVOERBESTAND, "w"))
+for ib in inds:
+    bestand = bestanden[ib]
+
     bestandsnaam_geenExtensie = bestand.split(".")[:-1]
     bestandsnaam_geenExtensie = "".join(bestandsnaam_geenExtensie)
     
     beschrijving = bestandsnaam_geenExtensie.replace("_", " ").replace("-", " ")
-    beschrijving = beschrijving.lower().capitalize()# + "."
+    os.system(f"convert '{BRONPAD}/{bestand}' -resize 640x '{BRONPAD}/thumbs/{bestand}'")
+    foto = template.replace("BESTANDSNAAM", bestand).replace("TITEL", bestandsnaam_geenExtensie).replace("BESCHRIJVING", beschrijving)
     
-    foto = template.replace("JAAR", jaar).replace("BESTANDSNAAM", bestand).replace("TITEL", bestandsnaam_geenExtensie).replace("BESCHRIJVING", beschrijving)
-    
-    print(foto, file=open(output_bestand, "a"))
-    
-    
-    if i == 3:
-        print("\n", file=open(output_bestand, "a"))
-        i = 0
-    
-    i += 1
+    print(foto, file=open(UITVOERBESTAND, "a"))    
+
+print(f"---\n\n{tekstje}", file=open(UITVOERBESTAND, "a"))
