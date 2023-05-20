@@ -9,6 +9,10 @@ images:
     thumb_path: /assets/w2023/thumbs/Freek maakt een duik, nabij kasteel Ruurlo.jpeg
     title: Freek maakt een duik, nabij kasteel Ruurlo
     description: "Freek maakt een duik, nabij kasteel Ruurlo"
+  - image_path: /assets/w2023/Uitrusten bij de oranjerie van kasteel Ruurlo.jpeg
+    thumb_path: /assets/w2023/thumbs/Uitrusten bij de oranjerie van kasteel Ruurlo.jpeg
+    title: Uitrusten bij de oranjerie van kasteel Ruurlo
+    description: "Uitrusten bij de oranjerie van kasteel Ruurlo"
   - image_path: /assets/w2023/Voor het eerst in jaren kon de WaterTender 10 weer naar de vijver navigeren.jpeg
     thumb_path: /assets/w2023/thumbs/Voor het eerst in jaren kon de WaterTender 10 weer naar de vijver navigeren.jpeg
     title: Voor het eerst in jaren kon de WaterTender 10 weer naar de vijver navigeren
@@ -49,6 +53,14 @@ images:
     thumb_path: /assets/w2023/thumbs/De hond van de tuinman.jpg
     title: De hond van de tuinman
     description: "De hond van de tuinman"
+  - image_path: /assets/w2023/Freek wacht op de bestelling bij Eef Oost.jpg
+    thumb_path: /assets/w2023/thumbs/Freek wacht op de bestelling bij Eef Oost.jpg
+    title: Freek wacht op de bestelling bij Eef Oost
+    description: "Freek wacht op de bestelling bij Eef Oost"
+  - image_path: /assets/w2023/Close-up van Eef zijn Snackwagen.jpg
+    thumb_path: /assets/w2023/thumbs/Close-up van Eef zijn Snackwagen.jpg
+    title: Close-up van Eef zijn Snackwagen
+    description: "Close-up van Eef zijn Snackwagen"
   - image_path: /assets/w2023/De aardappelen zijn geschild.jpg
     thumb_path: /assets/w2023/thumbs/De aardappelen zijn geschild.jpg
     title: De aardappelen zijn geschild
@@ -89,7 +101,9 @@ images:
 
 Voor het eerst in 11 jaar weer eens een Ulenpasupdate op de Snepperwebstek. De tweede jaargang sinds de coronastop was weer prachtig als vanouds. We waren weer met een grote groep, energiek als altijd. Er is 's nachts een poging gedaan tot _Dinosaur_ kijken, er zijn grappen gemaakt over de mythisch geweldige _Space Runner_ en Matt's kappersvoorkeuren zijn grondig geëvalueerd.
 
-De wandeling op de Posbank kon niet ontbreken (hoewel deze dit jaar op vrijdag was!), en ook de friet van Eef Oost was een bekende factor. Tevens zijn er dit jaar opvallend veel dieren gespot: IJsvogels, hazen, reeën en fazanten in aanvulling op de altijd kwetterende vogels en brullende kikkers.
+De wandeling op de Posbank kon niet ontbreken (hoewel deze dit jaar op vrijdag was!), en ook de friet van [Eef Oost](https://goo.gl/maps/ssQHoHRyKfnrXRvx7) was een bekende factor. Tevens zijn er dit jaar opvallend veel dieren gespot: IJsvogels, hazen, reeën en fazanten in aanvulling op de altijd kwetterende vogels en brullende kikkers.
+
+Ook zetten de Sneppers zich natuurlijk altijd tomeloos onvermoeibaar in voor alles wat met liefdadigheid en altruïsme te maken heeft, voorbeeld hiervan dit jaar was de computerhulp die aangeboden werd aan buurman Geer.
 
 Na jaren speculatie over de aanwezigheid van een heuse schat op het landgoed, zijn dit jaar voor het eerst concrete plannen gemaakt voor de aanschaf van een metaaldetector, zodat deze eindelijk gevonden en opgegraven kan worden. Jill neemt hierin het voortouw.
 
