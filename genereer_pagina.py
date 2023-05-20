@@ -1,6 +1,13 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-
+"""
+Instructies:
+  1. Maak map aan onder /assets met naam /wJAAR
+  2. In die map, maak een bestand genaamd 'tekst.markdown', en schrijf daar de beschrijving.
+  3. Plaats alle foto's in die map, met als bestandsnaam de bijschriften
+  4. Wijzig in dit script de het JAAR en eventueel wat andere zaken in de header of zo
+  5. Voer dit script uit. 
+"""
 
 ###
 JAAR = "2023"
