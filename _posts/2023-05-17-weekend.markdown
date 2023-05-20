@@ -5,6 +5,10 @@ external-url:
 categories: Weekenden
 visible: 1
 images:
+  - image_path: /assets/w2023/Freek maakt een duik, nabij kasteel Ruurlo.jpeg
+    thumb_path: /assets/w2023/thumbs/Freek maakt een duik, nabij kasteel Ruurlo.jpeg
+    title: Freek maakt een duik, nabij kasteel Ruurlo
+    description: "Freek maakt een duik, nabij kasteel Ruurlo"
   - image_path: /assets/w2023/Voor het eerst in jaren kon de WaterTender 10 weer naar de vijver naviferen.jpeg
     thumb_path: /assets/w2023/thumbs/Voor het eerst in jaren kon de WaterTender 10 weer naar de vijver naviferen.jpeg
     title: Voor het eerst in jaren kon de WaterTender 10 weer naar de vijver naviferen
@@ -25,10 +29,6 @@ images:
     thumb_path: /assets/w2023/thumbs/De jongeste Snepperméédjes.jpeg
     title: De jongeste Snepperméédjes
     description: "De jongeste Snepperméédjes"
-  - image_path: /assets/w2023/Dinosaur in de kingerslaapzaal, met karakteristieke groene waas.jpg
-    thumb_path: /assets/w2023/thumbs/Dinosaur in de kingerslaapzaal, met karakteristieke groene waas.jpg
-    title: Dinosaur in de kingerslaapzaal, met karakteristieke groene waas
-    description: "Dinosaur in de kingerslaapzaal, met karakteristieke groene waas"
   - image_path: /assets/w2023/De kopgroep op de Posbank.jpg
     thumb_path: /assets/w2023/thumbs/De kopgroep op de Posbank.jpg
     title: De kopgroep op de Posbank
@@ -37,26 +37,30 @@ images:
     thumb_path: /assets/w2023/thumbs/Zicht op het huis, zoek de verrassing.jpg
     title: Zicht op het huis, zoek de verrassing
     description: "Zicht op het huis, zoek de verrassing"
-  - image_path: /assets/w2023/De hond van de tuinman.jpg
-    thumb_path: /assets/w2023/thumbs/De hond van de tuinman.jpg
-    title: De hond van de tuinman
-    description: "De hond van de tuinman"
   - image_path: /assets/w2023/Prachtig groene weelde rondom al het vaarwater.jpg
     thumb_path: /assets/w2023/thumbs/Prachtig groene weelde rondom al het vaarwater.jpg
     title: Prachtig groene weelde rondom al het vaarwater
     description: "Prachtig groene weelde rondom al het vaarwater"
+  - image_path: /assets/w2023/Dinosaur in de kingerslaapzaal, met karakteristieke groene waas.jpg
+    thumb_path: /assets/w2023/thumbs/Dinosaur in de kingerslaapzaal, met karakteristieke groene waas.jpg
+    title: Dinosaur in de kingerslaapzaal, met karakteristieke groene waas
+    description: "Dinosaur in de kingerslaapzaal, met karakteristieke groene waas"
+  - image_path: /assets/w2023/De hond van de tuinman.jpg
+    thumb_path: /assets/w2023/thumbs/De hond van de tuinman.jpg
+    title: De hond van de tuinman
+    description: "De hond van de tuinman"
   - image_path: /assets/w2023/De aardappelen zijn geschild.jpg
     thumb_path: /assets/w2023/thumbs/De aardappelen zijn geschild.jpg
     title: De aardappelen zijn geschild
     description: "De aardappelen zijn geschild"
-  - image_path: /assets/w2023/Frits in dromenland.jpg
-    thumb_path: /assets/w2023/thumbs/Frits in dromenland.jpg
-    title: Frits in dromenland
-    description: "Frits in dromenland"
   - image_path: /assets/w2023/Mathijs in de Space Runner met rommelmarktaanwinsten.jpg
     thumb_path: /assets/w2023/thumbs/Mathijs in de Space Runner met rommelmarktaanwinsten.jpg
     title: Mathijs in de Space Runner met rommelmarktaanwinsten
     description: "Mathijs in de Space Runner met rommelmarktaanwinsten"
+  - image_path: /assets/w2023/Frits in dromenland.jpg
+    thumb_path: /assets/w2023/thumbs/Frits in dromenland.jpg
+    title: Frits in dromenland
+    description: "Frits in dromenland"
   - image_path: /assets/w2023/Marlies aan het schillen.jpeg
     thumb_path: /assets/w2023/thumbs/Marlies aan het schillen.jpeg
     title: Marlies aan het schillen

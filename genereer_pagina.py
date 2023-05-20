@@ -10,11 +10,11 @@ Instructies:
 """
 
 ### invullen
-JAAR = "2011"
-THEMA = "Disco Jaren '70"
+JAAR = "2023"
+THEMA = ""
 
 ### derivaten
-POSTNAAM = f"{JAAR}-05-10-weekend"
+POSTNAAM = f"{JAAR}-05-17-weekend"
 BRONPAD = f"assets/w{JAAR}"
 UITVOERBESTAND = f"_posts/{POSTNAAM}.markdown"
 header = f"""\
