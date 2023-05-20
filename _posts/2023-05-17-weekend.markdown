@@ -9,10 +9,10 @@ images:
     thumb_path: /assets/w2023/thumbs/Freek maakt een duik, nabij kasteel Ruurlo.jpeg
     title: Freek maakt een duik, nabij kasteel Ruurlo
     description: "Freek maakt een duik, nabij kasteel Ruurlo"
-  - image_path: /assets/w2023/Voor het eerst in jaren kon de WaterTender 10 weer naar de vijver naviferen.jpeg
-    thumb_path: /assets/w2023/thumbs/Voor het eerst in jaren kon de WaterTender 10 weer naar de vijver naviferen.jpeg
-    title: Voor het eerst in jaren kon de WaterTender 10 weer naar de vijver naviferen
-    description: "Voor het eerst in jaren kon de WaterTender 10 weer naar de vijver naviferen"
+  - image_path: /assets/w2023/Voor het eerst in jaren kon de WaterTender 10 weer naar de vijver navigeren.jpeg
+    thumb_path: /assets/w2023/thumbs/Voor het eerst in jaren kon de WaterTender 10 weer naar de vijver navigeren.jpeg
+    title: Voor het eerst in jaren kon de WaterTender 10 weer naar de vijver navigeren
+    description: "Voor het eerst in jaren kon de WaterTender 10 weer naar de vijver navigeren"
   - image_path: /assets/w2023/Landroeien.jpeg
     thumb_path: /assets/w2023/thumbs/Landroeien.jpeg
     title: Landroeien
