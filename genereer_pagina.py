@@ -9,68 +9,126 @@ Instructies:
   5. Voer dit script uit. 
 """
 
+from PIL import Image, UnidentifiedImageError
+import numpy
+from pathlib import Path
+from subprocess import Popen
+
 ### invullen
-JAAR = "2023"
+JAAR = "2024"
 THEMA = ""
 
 ### derivaten
-POSTNAAM = f"{JAAR}-05-17-weekend"
-BRONPAD = f"assets/w{JAAR}"
-UITVOERBESTAND = f"_posts/{POSTNAAM}.markdown"
+DEST = Path("_posts")
+SRC = Path("assets")
+POSTNAAM = f"{JAAR}-05-10-weekend"
+BRONPAD = SRC / f"w{JAAR}"
+UITVOERBESTAND = (DEST / POSTNAAM).with_suffix(".markdown")
 header = f"""\
 ---
-layout: photopage_thumb
+layout: multiphotopage_thumb
 title: "Ulenpas {JAAR}{(f': {THEMA}' if THEMA else '')}"
 external-url:
 categories: Weekenden
 visible: 1
+segments: SEG_NAMES
+content_file: CONTENT_FILE
 images:"""
 
-template = f"""  - image_path: /assets/w{JAAR}/BESTANDSNAAM
-    thumb_path: /assets/w{JAAR}/thumbs/BESTANDSNAAM
-    title: TITEL
-    description: "BESCHRIJVING"
-"""
-template = template[:-1]
+
+def img_block(filepath: Path, **kwargs) -> bytearray:
+    """
+    Create element for in the images array in the front matter
+
+    Parameters
+    ----------
+    filepath
+        Path to the image file to be added
+
+    Returns
+    -------
+        Multiline element to be added to the YAML array
+    """
+    kwargs["image_path"] = filepath
+    kwargs["thumb_path"] = Path(*filepath.parts[:-1]) / "thumbs" / filepath.name
+    kwargs["title"] = filepath.stem
+    kwargs["description"] = ("" if any(filepath.stem.startswith(x) for x in ("WhatsApp Image", "NOCAP", "DSC", "IMG")) else filepath.stem)
+    if getar(filepath) != 100:
+        Popen(["convert", kwargs['image_path'], "-resize", "640x", kwargs['thumb_path']])
+    else:
+        kwargs["is_video"] = "true"
+
+    s = ""
+    for key, value in kwargs.items():
+        sll = "/" if isinstance(value, Path) else ""
+        s += f"\n    {key}: \"{sll}{value}\""
+
+    s =  "  - " + s.lstrip() + "\n"
+    return s.encode("UTF-8")
 
 
-###
-import os
-import subprocess
-from PIL import Image, UnidentifiedImageError
-import numpy
-
-def getar(filepath):
+def getar(filepath: Path) -> float:
     try:
         img = Image.open(filepath)
         return img.height/img.width
     except UnidentifiedImageError:
-        return 100
+        return 100.
 
 
-###
-with open(f"{BRONPAD}/tekst.markdown", "r") as f:
+# Scan input markdown file for image and text segments
+with open(BRONPAD / "tekst.markdown", "r") as f:
     tekstje = f.read()
-bestanden = list(filter(lambda x: x not in ("thumbs", "tekst.markdown"), os.listdir(BRONPAD)))
-beeldverhoudingen = [getar(f"{BRONPAD}/{bestand}") for bestand in bestanden]
-inds = numpy.argsort(beeldverhoudingen)  # Rangschik afbeelding naar beeldverhouding, ziet er beter uit.
-
-print(header, file=open(UITVOERBESTAND, "w"))
-for ib in inds:
-    bestand = bestanden[ib]
-
-    beschrijving = "".join(bestand.split(".")[:-1])  # geen extensie
-    titel = beschrijving
-
-    if beeldverhoudingen[ib] != 100:
-        os.system(f"convert '{BRONPAD}/{bestand}' -resize 640x '{BRONPAD}/thumbs/{bestand}'")
+segments = []
+in_imgs = False
+text = ""
+imgs = []
+all_mentioned_imgs = []
+for line in tekstje.splitlines():
+    if line.startswith("![](") and line.endswith(")"):
+        if not in_imgs:
+            in_imgs = True
+        img_file =  Path(line.split("![](")[1][1:-1].replace("%20", " "))
+        imgs.append(img_file)
+        all_mentioned_imgs.append(img_file)
     else:
-        template += "\n    is_video: true"
-    
-    if any(beschrijving.startswith(x) for x in ("DSC", "IMG")):
-        beschrijving = ""
-    foto = template.replace("BESTANDSNAAM", bestand).replace("TITEL", titel).replace("BESCHRIJVING", beschrijving)
-    
-    print(foto, file=open(UITVOERBESTAND, "a"))    
+        if in_imgs:
+            segments.append({"text": text, "imgs": imgs})
+            text = ""
+            imgs = []
+            in_imgs = False
+        text += f"{line}\n"
+segments.append({"text": text, "imgs": imgs})
 
-print(f"---\n\n{tekstje}", file=open(UITVOERBESTAND, "a"))
+# Gather and sort remaining images, to be placed at the bottom of the page
+bestanden = list(filter(lambda x: x not in all_mentioned_imgs and x.name not in ("thumbs", "tekst.markdown"), BRONPAD.glob("*")))
+beeldverhoudingen = [getar(bestand) for bestand in bestanden]
+inds = numpy.argsort(beeldverhoudingen)  # Rangschik afbeelding naar beeldverhouding, ziet er beter uit.
+bestanden = [bestanden[i] for i in inds]
+segments.append({"text": "", "imgs": bestanden})
+
+
+for seg in segments:
+    print("SEGMENT SEGMENT")
+    print(seg["text"])
+    print(seg["imgs"])
+    print()
+
+# Add text segments
+st, et = "{%", "%}"
+cf = UITVOERBESTAND.with_stem("_" + UITVOERBESTAND.stem + "-content")
+header = header.replace("CONTENT_FILE", cf.name)
+with open(cf, "wb") as fuit:
+    for i, seg in enumerate(segments):
+        fuit.write(f'{st} if include.content == "{i}" {et}\n<wbr>\n\n'.encode("UTF-8"))  # HACK: <wbr> because if a heading is not preceded by something (in the text fragment included via liquid), a large vspace is present under the heading.
+        fuit.write(seg["text"].encode("UTF-8"))
+        fuit.write(f"\n{st} endif {et}\n".encode("UTF-8"))
+
+# Front matter (YAML) incl. images
+with open(UITVOERBESTAND, "wb") as fuit:
+    header = header.replace("SEG_NAMES", str([str(i) for i in range(len(segments)-1)] + ["unsorted"]))
+    fuit.write((header + "\n").encode("UTF-8"))
+    for i, seg in enumerate(segments):
+        for bestand in seg["imgs"]:
+            fuit.write(img_block(bestand, segment=("unsorted" if i == len(segments)-1 else i)))
+    fuit.write("---\n\n".encode("UTF-8"))
+
