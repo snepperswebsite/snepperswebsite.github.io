@@ -19,7 +19,7 @@ Ondanks het natte voorjaar (en sprokkelhout) slaagde de Snepperkinger er, tot gr
 ## Zoektocht schat
 Tot nog toe zijn de Snepperkinger er niet in geslaagd de schat te vinden, talloze worpen van de sterke magneet in het water ten spijt.
 Pim en Jill hebben een groot deel van het eiland afgekaart met de metaaldetector, maar zonder resultaat.
-Wel is werden er wat werktuigen; een eg en een bijl gevonden.
+Wel werden er wat werktuigen; een eg en een bijl gevonden.
 Wellicht ligt de schat te diep begraven...
 
 ![](/assets/w2024/Zoeken%20in%20de%20gedempte%20gracht.jpeg)
