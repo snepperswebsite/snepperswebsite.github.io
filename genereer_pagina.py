@@ -15,13 +15,13 @@ from pathlib import Path
 from subprocess import Popen
 
 ### invullen
-JAAR = "2024"
+JAAR = "2025"
 THEMA = ""
 
 ### derivaten
 DEST = Path("_posts")
 SRC = Path("assets")
-POSTNAAM = f"{JAAR}-05-10-weekend"
+POSTNAAM = f"{JAAR}-05-28-weekend"
 BRONPAD = SRC / f"w{JAAR}"
 UITVOERBESTAND = (DEST / POSTNAAM).with_suffix(".markdown")
 header = f"""\
@@ -53,8 +53,9 @@ def img_block(filepath: Path, **kwargs) -> bytearray:
     kwargs["thumb_path"] = Path(*filepath.parts[:-1]) / "thumbs" / filepath.name
     kwargs["title"] = filepath.stem
     kwargs["description"] = ("" if any(filepath.stem.startswith(x) for x in ("WhatsApp Image", "NOCAP", "DSC", "IMG")) else filepath.stem)
+    kwargs["thumb_path"].parent.mkdir(exist_ok=True)
     if getar(filepath) != 100:
-        Popen(["convert", kwargs['image_path'], "-resize", "640x", kwargs['thumb_path']])
+        Popen(["magick", kwargs['image_path'], "-resize", "640x", kwargs['thumb_path']])
     else:
         kwargs["is_video"] = "true"
 
